@@ -120,8 +120,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0FA46E97241578F8:000244_0000_0FA36F0F9F3A7220"/>
-            <pb facs="tcp:0FA46E97241578F8:000244_0001_0FA36F1006DBAD20"/>
+            <pb facs="unknown:000244_0000_0FA36F0F9F3A7220"/>
+            <pb facs="unknown:000244_0001_0FA36F1006DBAD20"/>
             <p>SEVERAL POEMS Compiled with great variety of Wit and Learning, full of Delight; Wherein especially is contained a compleat Discourse, and Description of The Four
 <list>
                   <item>ELEMENTS</item>
@@ -144,7 +144,7 @@
                <hi>Boston,</hi> Printed by <hi>Iohn Foster,</hi> 1678.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:0FA46E97241578F8:000244_0002_0FA36F10C66B6308"/>
+            <pb facs="unknown:000244_0002_0FA36F10C66B6308"/>
             <opener>
                <salute>Kind Reader:</salute>
             </opener>
@@ -153,7 +153,7 @@
                </gap>usal; but I fear 'twill be a shame for a Man that can speak so little, To be seen in the title page of this Womans Book<g ref="char:EOLhyphen"/>lest by comparing the one with the other, the Rea<g ref="char:EOLhyphen"/>der should pass his sentence that it is the gift of wo<g ref="char:EOLhyphen"/>men not only to speak most but to speak best; I shal leave therefore to commend that, which with any ingenious Reader will too much commend the Au<g ref="char:EOLhyphen"/>thor, unless men turn more peevish then women, to envy the excellency of the inferiour Sex. I doubt not but the Reader will quickly find more then I can say, and the worst effect of his reading will be unbelief, which will make him question whether it be a womans work, and askc, Is is possible? If any do, take this as an answer from him that dares avow it; It is the Work of a Woman, honoured, and esteemed where she lives, for her gracious de<g ref="char:EOLhyphen"/>meanour, her eminent parts, her pious conversa<g ref="char:EOLhyphen"/>tion, her courteous disposition, her exact diligence in her place, and discreet managing of her Family
 
 
-<pb n="1" facs="tcp:0FA46E97241578F8:000244_0003_0FA36F11865E4790"/>
+<pb n="1" facs="unknown:000244_0003_0FA36F11865E4790"/>
 occasions, and more then so, these Poems are the fruit but of some few houres, curtailed from her sleep and other refreshments. I dare adde little lest I keep thee too long; if thou wilt not believe the worth of these things (in their kind) when a man sayes it<g ref="char:punc">▪</g> yet believe it from a woman whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> thou seest it. This only I shall a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -163,7 +163,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </gap>ell, were likely to have sent forth broken pieces, to the Authors prejudice, which I thought to prevent, as well as to pleasure those that earnestly desired the view of the whole.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:0FA46E97241578F8:000244_0004_0FA36F12465B0F58"/>
+            <pb facs="unknown:000244_0004_0FA36F12465B0F58"/>
             <l>
                <hi>MErcur<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -201,7 +201,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:0FA46E97241578F8:000244_0005_0FA36F13067117F8"/>
+            <pb facs="unknown:000244_0005_0FA36F13067117F8"/>
             <head>To my dear Sister, the Author of these Poems.</head>
             <l>THough most that know me, dare (I <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -232,7 +232,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>And all to get, what (silly Souls) they lack,</l>
             <l>Esteem to be the wisest of the pack;</l>
             <l>
-               <pb facs="tcp:0FA46E97241578F8:000244_0006_0FA36F13C69C2B50"/>Though (for your sake) to some this be permitted,</l>
+               <pb facs="unknown:000244_0006_0FA36F13C69C2B50"/>Though (for your sake) to some this be permitted,</l>
             <l>To print, yet wish I many better witted;</l>
             <l>Their vanity make this to be enquired,</l>
             <l>If Women are with wit and sence inspired:</l>
@@ -263,7 +263,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>When once the Caskets op'ned; yet to you</l>
             <l>Let this be added, then I'le bid adieu,</l>
             <l>
-               <pb facs="tcp:0FA46E97241578F8:000244_0007_0FA36F14D6A33638"/>If you shall think, it will be t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb facs="unknown:000244_0007_0FA36F14D6A33638"/>If you shall think, it will be t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> your shame</l>
             <l>To be in prin<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -297,7 +297,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:0FA46E97241578F8:000244_0008_0FA36F1546DCAEF0"/>
+            <pb facs="unknown:000244_0008_0FA36F1546DCAEF0"/>
             <head>Vpon the Author; by a known Friend.</head>
             <l>NOw I believe T<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -330,7 +330,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:0FA46E97241578F8:000244_0009_0FA36F16069852F0"/>
+            <pb facs="unknown:000244_0009_0FA36F16069852F0"/>
             <head>In praise of the Author, Mistris <hi>Anne Bradstreet,</hi> Virtues true and lively Pattern, Wife of the Worshipfull <hi>Simon Bradstreet</hi> 
                <abbr>Esq</abbr>
             </head>
@@ -358,7 +358,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:0FA46E97241578F8:000244_0010_0FA36F16C8DE7260"/>
+            <pb facs="unknown:000244_0010_0FA36F16C8DE7260"/>
             <head>Upon the Author.</head>
             <l>'TWere extream folly should I dare attempt,</l>
             <l>To praise this Authors worth with comple<g ref="char:EOLhyphen"/>ment;</l>
@@ -401,7 +401,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:0FA46E97241578F8:000244_0011_0FA36F17870BA660"/>
+            <pb facs="unknown:000244_0011_0FA36F17870BA660"/>
             <head>VPON Mrs. Anne Bradstreet Her Poems, &amp;c.</head>
             <lg>
                <l>MADAM, twice through the Muses Grove I walkt,</l>
@@ -445,7 +445,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Or stately <hi>Iove</hi> himself is wont to haunt the stews.</l>
             </lg>
             <lg n="4">
-               <pb facs="tcp:0FA46E97241578F8:000244_0012_0FA36F18464EA3A8"/>
+               <pb facs="unknown:000244_0012_0FA36F18464EA3A8"/>
                <head>4</head>
                <l>Nor barking Satyrs breath, nor driery clouds</l>
                <l>Exhal'd from <hi>Styx,</hi> their dismal drops distil</l>
@@ -497,7 +497,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Which prov'd your lonely Muse, superiour to the nine.</l>
             </lg>
             <lg n="8">
-               <pb facs="tcp:0FA46E97241578F8:000244_0013_0FA36F19070C5A10"/>
+               <pb facs="unknown:000244_0013_0FA36F19070C5A10"/>
                <head>8</head>
                <l>Your only hand those Poesies did compose,</l>
                <l>Your head the source, whence all those springs did flow,</l>
@@ -528,7 +528,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </closer>
          </div>
          <div type="dedication">
-            <pb facs="tcp:0FA46E97241578F8:000244_0014_0FA36F19C6498AF8"/>
+            <pb facs="unknown:000244_0014_0FA36F19C6498AF8"/>
             <head>To her most Honoured Fa<g ref="char:EOLhyphen"/>ther <hi>Thomas Dudley</hi> 
                <abbr>Esq</abbr> these humbly presented.</head>
             <lg>
@@ -554,7 +554,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>udely pen'd</l>
                <l>They are, your bounden handmaids to attend</l>
                <l>
-                  <pb n="2" facs="tcp:0FA46E97241578F8:000244_0015_0FA36F1A8C7B7AF8"/>These same are they<g ref="char:punc">▪</g> from whom we being have</l>
+                  <pb n="2" facs="unknown:000244_0015_0FA36F1A8C7B7AF8"/>These same are they<g ref="char:punc">▪</g> from whom we being have</l>
                <l>These are of all, the Life the Nurse, the Grave,</l>
                <l>These are the hot, the cold, the moist, the dry,</l>
                <l>That sink, that swim, that sill, that upwards fly,</l>
@@ -596,7 +596,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
       </front>
       <body>
          <div type="prologue">
-            <pb n="3" facs="tcp:0FA46E97241578F8:000244_0016_0FA36F1B464D20F0"/>
+            <pb n="3" facs="unknown:000244_0016_0FA36F1B464D20F0"/>
             <head>THE PROLOGUE.</head>
             <lg n="1">
                <head>1.</head>
@@ -639,7 +639,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>n</l>
                <l>
-                  <pb n="4" facs="tcp:0FA46E97241578F8:000244_0017_0FA36F1C553F58A8"/>Art can do much, but this maxime's most sure</l>
+                  <pb n="4" facs="unknown:000244_0017_0FA36F1C553F58A8"/>Art can do much, but this maxime's most sure</l>
                <l>A weak or wounded brain admits no cure.</l>
             </lg>
             <lg n="5">
@@ -695,7 +695,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </lg>
          </div>
          <div type="poem">
-            <pb n="5" facs="tcp:0FA46E97241578F8:000244_0018_0FA36F1CC7904F50"/>
+            <pb n="5" facs="unknown:000244_0018_0FA36F1CC7904F50"/>
             <head>The Four Elements</head>
             <l>THe Fire, Air, Earth and water did <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -740,7 +740,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>The others difference, being less did cease</l>
             <l>All storms now laid, and they in perfect peace</l>
             <l>
-               <pb n="6" facs="tcp:0FA46E97241578F8:000244_0019_0FA36F1D876F4648"/>That Fire should f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="6" facs="unknown:000244_0019_0FA36F1D876F4648"/>That Fire should f<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rst begin, the rest consent,</l>
             <l>The noblest and most active Element.</l>
@@ -777,7 +777,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Ye Cooks, your Kitchen implements I frame</l>
                <l>Your Spits, Pots, Jacks, what else I need not name</l>
                <l>
-                  <pb n="7" facs="tcp:0FA46E97241578F8:000244_0020_0FA36F1E47E3D620"/>Your dayly food I wholsome make, I warm</l>
+                  <pb n="7" facs="unknown:000244_0020_0FA36F1E47E3D620"/>Your dayly food I wholsome make, I warm</l>
                <l>Your shrinking Limbs, which winter's cold doth harm</l>
                <l>Ye <hi>Parac<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -830,7 +830,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>lew.</l>
                <l>
-                  <pb n="8" facs="tcp:0FA46E97241578F8:000244_0021_0FA36F1F069DBDA8"/>My Crab, my Scorpion, fishes you may see</l>
+                  <pb n="8" facs="unknown:000244_0021_0FA36F1F069DBDA8"/>My Crab, my Scorpion, fishes you may see</l>
                <l>The Maid with ballance, wain with horses three,</l>
                <l>The Ram, the Bull, the Lion, and the Beagle,</l>
                <l>The Bear, the Goat, the Raven, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -877,7 +877,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>What famous Towns, to Cinders have I turn'd?</l>
                <l>What lasting forts my kindled wrath hath burn'd?</l>
                <l>
-                  <pb n="9" facs="tcp:0FA46E97241578F8:000244_0022_0FA36F1FE4173648"/>The stately Seats of mighty Kings by me</l>
+                  <pb n="9" facs="unknown:000244_0022_0FA36F1FE4173648"/>The stately Seats of mighty Kings by me</l>
                <l>In confused heaps, or ashes may you see.</l>
                <l>Wher's <hi>Ninus</hi> great wall'd Town, &amp; <hi>Troy</hi> of old</l>
                <l>
@@ -908,7 +908,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>As I, impart your usefulness and force.</l>
             </div>
             <div type="part">
-               <pb n="10" facs="tcp:0FA46E97241578F8:000244_0023_0FA36F20F2143890"/>
+               <pb n="10" facs="unknown:000244_0023_0FA36F20F2143890"/>
                <head>Earth.</head>
                <l>The next in place Earth judg'd to be her due,</l>
                <l>Sister quoth shee) I come not short of you,</l>
@@ -972,7 +972,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap> 
                   <hi>Spanish</hi> and <hi>Italian</hi> brawles.</l>
                <l>
-                  <pb n="11" facs="tcp:0FA46E97241578F8:000244_0024_0FA36F21462BB258"/>And huge great <hi>Taurus</hi>
+                  <pb n="11" facs="unknown:000244_0024_0FA36F21462BB258"/>And huge great <hi>Taurus</hi>
                   <g ref="char:punc">▪</g> longer then the rest,</l>
                <l>Dividing great <hi>Armenia</hi> from the least;</l>
                <l>And <hi>Hemus</hi> whose steep sides none foot upon,</l>
@@ -1022,7 +1022,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>ts,</l>
                <l>That with less cost near home supply your wants.</l>
                <l>
-                  <pb n="12" facs="tcp:0FA46E97241578F8:000244_0025_0FA36F22096A3F70"/>But Mariners where got you ships and Sails,</l>
+                  <pb n="12" facs="unknown:000244_0025_0FA36F22096A3F70"/>But Mariners where got you ships and Sails,</l>
                <l>And Oars to row, when both my Sisters fails</l>
                <l>Your Tackling, Anchor, compass too is mine,</l>
                <l>which guids when sun nor moon nor stars do shine</l>
@@ -1060,7 +1060,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>is toiling pain</l>
                <l>Thistles and thorns where he expected grain.</l>
                <l>
-                  <pb n="13" facs="tcp:0FA46E97241578F8:000244_0026_0FA36F22C7A4B5F8"/>My sap to plants and trees I must not grant,</l>
+                  <pb n="13" facs="unknown:000244_0026_0FA36F22C7A4B5F8"/>My sap to plants and trees I must not grant,</l>
                <l>The vine, the olive, and the figtree want:</l>
                <l>The Corn and Hay do fall before the're mown<g ref="char:punc">▪</g>
                </l>
@@ -1109,7 +1109,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Thus I occasion death to man and beast</l>
                <l>When food they seek, &amp; harm mistrust the least.</l>
                <l>
-                  <pb n="14" facs="tcp:0FA46E97241578F8:000244_0027_0FA36F23863708B0"/>Much might I say of the hot <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="14" facs="unknown:000244_0027_0FA36F23863708B0"/>Much might I say of the hot <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>bian</hi> sand</l>
                <l>Which rise like tumbling Billows on the Land</l>
@@ -1154,7 +1154,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>
                </l>
                <l>
-                  <pb n="15" facs="tcp:0FA46E97241578F8:000244_0028_0FA36F2448873A40"/>Thy Camel hath n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="15" facs="unknown:000244_0028_0FA36F2448873A40"/>Thy Camel hath n<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> strength thy Bull no force</l>
                <l>Nor mettal's found, in the couragious Horse</l>
@@ -1204,7 +1204,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>With thousands more, which now I list not name</l>
                <l>Thy silence of thy Beasts doth cause the same</l>
                <l>
-                  <pb n="16" facs="tcp:0FA46E97241578F8:000244_0029_0FA36F25064B57E8"/>My pearles that dangle at thy Darlings ears.</l>
+                  <pb n="16" facs="unknown:000244_0029_0FA36F25064B57E8"/>My pearles that dangle at thy Darlings ears.</l>
                <l>Not thou, but shel-fish yield<g ref="char:punc">▪</g> as <hi>Pliny</hi> clears.</l>
                <l>Was ever gem so rich found in thy trunk,</l>
                <l>As <hi>Egypts</hi> wanton, <hi>Cleopatra</hi> drunk?</l>
@@ -1262,7 +1262,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>rs made by art,</l>
                <l>Which can to life restore a fainting heart.</l>
                <l>
-                  <pb n="17" facs="tcp:0FA46E97241578F8:000244_0030_0FA36F2613D3F168"/>Nor fruitfull dews, nor drops distil'd from eyes,</l>
+                  <pb n="17" facs="unknown:000244_0030_0FA36F2613D3F168"/>Nor fruitfull dews, nor drops distil'd from eyes,</l>
                <l>Which pitty move<g ref="char:punc">▪</g> and oft deceive the wise:</l>
                <l>Nor yet of salt and sugar<g ref="char:punc">▪</g> sweet and smart,</l>
                <l>Both when we list to water we convert.</l>
@@ -1311,7 +1311,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>
                   <hi>Scicily</hi> from <hi>Italy</hi> by the like chance,</l>
                <l>
-                  <pb n="18" facs="tcp:0FA46E97241578F8:000244_0031_0FA36F2686E78848"/>And but one land was <hi>Africa</hi> and <hi>Spain</hi>
+                  <pb n="18" facs="unknown:000244_0031_0FA36F2686E78848"/>And but one land was <hi>Africa</hi> and <hi>Spain</hi>
                </l>
                <l>Untill proud <hi>Gibraltar</hi> did make them twain.</l>
                <l>Some say I swallow'd up (sure tis a notion)</l>
@@ -1342,7 +1342,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
             </div>
             <div type="part">
-               <pb n="19" facs="tcp:0FA46E97241578F8:000244_0032_0FA36F2746C44108"/>
+               <pb n="19" facs="unknown:000244_0032_0FA36F2746C44108"/>
                <head>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>r.</head>
@@ -1373,7 +1373,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Your Songs and pleasant tunes they are the same,</l>
                <l>And so's the notes which Nightingales do frame.</l>
                <l>
-                  <pb n="20" facs="tcp:0FA46E97241578F8:000244_0033_0FA36F2807036518"/>Ye forging Smiths, if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="20" facs="unknown:000244_0033_0FA36F2807036518"/>Ye forging Smiths, if <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ellows once were gone</l>
                <l>Your red hot work mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1423,7 +1423,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>The stork, the crane, the partridg, and the phesant</l>
                <l>The Thrush, the wren, the lark a prev to'th' pesant.</l>
                <l>
-                  <pb n="21" facs="tcp:0FA46E97241578F8:000244_0034_0FA36F28C6F232C0"/>With thousands more which now I may omit</l>
+                  <pb n="21" facs="unknown:000244_0034_0FA36F28C6F232C0"/>With thousands more which now I may omit</l>
                <l>Without impeachment to my tale or wit.</l>
                <l>As my fresh air preserves all things in life,</l>
                <l>So when corrupt, mortality is rife:</l>
@@ -1467,7 +1467,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Sometimes red flaming swords and blazing stars,</l>
                <l>Portentous signs of famines, plagues and wars.</l>
                <l>
-                  <pb n="22" facs="tcp:0FA46E97241578F8:000244_0035_0FA36F29879F1878"/>Which make the mighty Monarchs fear their fates</l>
+                  <pb n="22" facs="unknown:000244_0035_0FA36F29879F1878"/>Which make the mighty Monarchs fear their fates</l>
                <l>By death or great mutation of their States.</l>
                <l>I have said less then did my Sisters three<g ref="char:punc">▪</g>
                </l>
@@ -1499,7 +1499,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Proud Melancholy more envious then the rest,</l>
             <l>The second, third or last could not digest.</l>
             <l>
-               <pb n="23" facs="tcp:0FA46E97241578F8:000244_0036_0FA36F2A462DAE28"/>She was the silentest of all the four,</l>
+               <pb n="23" facs="unknown:000244_0036_0FA36F2A462DAE28"/>She was the silentest of all the four,</l>
             <l>Her wis<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>om spa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1542,7 +1542,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Where if your rule prove once predominant,</l>
                <l>The man proves boyish, sottish, ignorant:</l>
                <l>
-                  <pb n="24" facs="tcp:0FA46E97241578F8:000244_0037_0FA36F2B066EE960"/>But if you yield subservience unto me,</l>
+                  <pb n="24" facs="unknown:000244_0037_0FA36F2B066EE960"/>But if you yield subservience unto me,</l>
                <l>I make a man, a man in th'high<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>st degree.</l>
@@ -1581,7 +1581,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>To march her pace to some is greater pain</l>
                <l>Then by a quick encounter to be slain.</l>
                <l>
-                  <pb n="25" facs="tcp:0FA46E97241578F8:000244_0038_0FA36F2BC7A8F000"/>But be she beaten, she'l not run away,</l>
+                  <pb n="25" facs="unknown:000244_0038_0FA36F2BC7A8F000"/>But be she beaten, she'l not run away,</l>
                <l>She'l first advise if't be not best to stay.</l>
                <l>Now let's give cold white sister flegme her right,</l>
                <l>So loving unto all she scorns to fight:</l>
@@ -1625,7 +1625,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>My absence proves it plain, her wit then flyes</l>
                <l>Out at her nose, or melteth at her eyes.</l>
                <l>
-                  <pb n="26" facs="tcp:0FA46E97241578F8:000244_0039_0FA36F2C8650D240"/>Oh who would miss this influence of thine</l>
+                  <pb n="26" facs="unknown:000244_0039_0FA36F2C8650D240"/>Oh who would miss this influence of thine</l>
                <l>To be distill'd, a drop on every Line?</l>
                <l>Alas thou hast no Spirits thy Company</l>
                <l>Will feed a dropsy, or a Tympany,</l>
@@ -1658,7 +1658,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Whose profound heads I line with policies,</l>
                <l>They'r held for Oracles, they are so wise,</l>
                <l>
-                  <pb n="27" facs="tcp:0FA46E97241578F8:000244_0040_0FA36F2D46E1D740"/>Their wrathful looks are death their words are laws</l>
+                  <pb n="27" facs="unknown:000244_0040_0FA36F2D46E1D740"/>Their wrathful looks are death their words are laws</l>
                <l>Their Courage it foe, friend, and Subject awes;</l>
                <l>But one of you, would make a worthy King</l>
                <l>Like our sixth <hi>Henry</hi> (that same virtuous <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1692,7 +1692,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Your selves may plead your wrongs are no whit less</l>
                <l>Your patience more then mine, I must confess</l>
                <l>
-                  <pb n="28" facs="tcp:0FA46E97241578F8:000244_0041_0FA36F2E063A6028"/>Did ever sober tongue such language speak,</l>
+                  <pb n="28" facs="unknown:000244_0041_0FA36F2E063A6028"/>Did ever sober tongue such language speak,</l>
                <l>Or honesty such tyes unfriendly break?</l>
                <l>Dost know thy self so well us so amiss?</l>
                <l>Is't arrogance or folly causeth this?</l>
@@ -1727,7 +1727,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Thy rudeness counts good manners vanity,</l>
                <l>And real Complements base flattery.</l>
                <l>
-                  <pb n="29" facs="tcp:0FA46E97241578F8:000244_0042_0FA36F2F13BE90C0"/>For drink, which of us twain like it the best,</l>
+                  <pb n="29" facs="unknown:000244_0042_0FA36F2F13BE90C0"/>For drink, which of us twain like it the best,</l>
                <l>Ile go no further then thy nose for test.</l>
                <l>Thy other scoffs<g ref="char:punc">▪</g> not worthy of reply</l>
                <l>Shall vanish as of no validity:</l>
@@ -1768,7 +1768,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Wilt thou this valour, Courage, Manhood call:</l>
                <l>No, know 'tis pride most diabolibal.</l>
                <l>
-                  <pb n="30" facs="tcp:0FA46E97241578F8:000244_0043_0FA36F2F86DE4D00"/>If murthers be thy glory<g ref="char:punc">▪</g> tis no less,</l>
+                  <pb n="30" facs="unknown:000244_0043_0FA36F2F86DE4D00"/>If murthers be thy glory<g ref="char:punc">▪</g> tis no less,</l>
                <l>Ile not envy thy feats, nor happiness:</l>
                <l>But if in fitting time and place 'gainst foe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1805,7 +1805,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Shall justly claim priority of thine<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="31" facs="tcp:0FA46E97241578F8:000244_0044_0FA36F3046AE4038"/>I am the fountain <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <pb n="31" facs="unknown:000244_0044_0FA36F3046AE4038"/>I am the fountain <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ich thy Cistern fills</l>
                <l>Through warm blew Conduits of my venial rills:</l>
@@ -1850,7 +1850,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>And so thou challengest her property.</l>
                <l>
-                  <pb n="32" facs="tcp:0FA46E97241578F8:000244_0045_0FA36F3107FED448"/>The help she needs, the loving liver lends,</l>
+                  <pb n="32" facs="unknown:000244_0045_0FA36F3107FED448"/>The help she needs, the loving liver lends,</l>
                <l>Who th' benefit o'th' whole ever intends</l>
                <l>To meddle further I shall be but shent,</l>
                <l>Th'rest to our Sisters is more pertinent;</l>
@@ -1886,7 +1886,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>With her unchearful visage, swarth and wan,</l>
                <l>
-                  <pb n="33" facs="tcp:0FA46E97241578F8:000244_0046_0FA36F31C7D70CB0"/>The body dryes, the mind sublime doth smother,</l>
+                  <pb n="33" facs="unknown:000244_0046_0FA36F31C7D70CB0"/>The body dryes, the mind sublime doth smother,</l>
                <l>And turns him to the womb of's earthy mother:</l>
                <l>And flegm likewise can shew her cruel art,</l>
                <l>With cold distempers to pain every part:</l>
@@ -1916,7 +1916,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>A most voluminous large Memory,</l>
                <l>And nothing wanting but Solidity.</l>
                <l>
-                  <pb n="34" facs="tcp:0FA46E97241578F8:000244_0047_0FA36F3286DCC278"/>
+                  <pb n="34" facs="unknown:000244_0047_0FA36F3286DCC278"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ut why alas, thus tedious should I be,</l>
@@ -1962,7 +1962,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>What mov'd thee thus to vilifie my name,</l>
                <l>Not past all reason, but in truth all shame:</l>
                <l>
-                  <pb n="35" facs="tcp:0FA46E97241578F8:000244_0048_0FA36F3347CFF830"/>Thy fiery spirit shall bear away this prize,</l>
+                  <pb n="35" facs="unknown:000244_0048_0FA36F3347CFF830"/>Thy fiery spirit shall bear away this prize,</l>
                <l>To play such furious pranks I am too wise:</l>
                <l>If in a Souldier rashness be so precious,</l>
                <l>Know in a General tis most pernicious.</l>
@@ -2004,7 +2004,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>••</desc>
                   </gap> all the huge beasts of the fertile field·</l>
                <l>
-                  <pb n="36" facs="tcp:0FA46E97241578F8:000244_0049_0FA36F34066CB6E0"/>Again thou dost confine me to the spleen,</l>
+                  <pb n="36" facs="unknown:000244_0049_0FA36F34066CB6E0"/>Again thou dost confine me to the spleen,</l>
                <l>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2043,7 +2043,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>gain you often touch my swarthy hue,</l>
                <l>That black is black, and I am black tis true;</l>
                <l>
-                  <pb n="37" facs="tcp:0FA46E97241578F8:000244_0050_0FA36F34C624B160"/>But yet more comely far I dare avow,</l>
+                  <pb n="37" facs="unknown:000244_0050_0FA36F34C624B160"/>But yet more comely far I dare avow,</l>
                <l>Then is thy torrid nose or brazen brow.</l>
                <l>But that which shews how high your spight is bent</l>
                <l>Is charging me to be thy excrement:</l>
@@ -2086,7 +2086,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Here, there her restless thoughts do ever fly,</l>
                <l>Constant in nothing but unconstancy.</l>
                <l>
-                  <pb n="38" facs="tcp:0FA46E97241578F8:000244_0051_0FA36F35D63B4CA8"/>
+                  <pb n="38" facs="unknown:000244_0051_0FA36F35D63B4CA8"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nd what Flegme is, we know like to her mother,</l>
@@ -2130,7 +2130,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>We shall expect much sound, but little force.</l>
             </div>
             <div type="part">
-               <pb n="39" facs="tcp:0FA46E97241578F8:000244_0052_0FA36F3647030758"/>
+               <pb n="39" facs="unknown:000244_0052_0FA36F3647030758"/>
                <head>Flegme.</head>
                <l>Patient I am, patient i'd need to be,</l>
                <l>To bear with the injurious taunts of three,</l>
@@ -2171,7 +2171,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Country with Country, Greece with <hi>Asia</hi> fights</l>
                <l>Sixty nine Princes, all stout <hi>Hero</hi> Knights.</l>
                <l>
-                  <pb n="40" facs="tcp:0FA46E97241578F8:000244_0053_0FA36F3706BCF5D8"/>Under <hi>Troys</hi> walls ten years will wear away,</l>
+                  <pb n="40" facs="unknown:000244_0053_0FA36F3706BCF5D8"/>Under <hi>Troys</hi> walls ten years will wear away,</l>
                <l>Rather then loose one beauteous <hi>Helena.</hi>
                </l>
                <l>But 'twere as vain, to prove this truth of mine</l>
@@ -2217,7 +2217,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>w, hence flow the pow'rs which they retain</l>
                <l>
-                  <pb n="41" facs="tcp:0FA46E97241578F8:000244_0054_0FA36F37C668E650"/>Within this high Built <hi>Cittad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="41" facs="unknown:000244_0054_0FA36F37C668E650"/>Within this high Built <hi>Cittad<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>l,</hi> doth lye</l>
                <l>The <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2282,7 +2282,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>ine by Consequence.</l>
                <l>
-                  <pb n="42" facs="tcp:0FA46E97241578F8:000244_0055_0FA36F3887BD6E18"/>A foolish brain (quoth Choler) wanting heat</l>
+                  <pb n="42" facs="unknown:000244_0055_0FA36F3887BD6E18"/>A foolish brain (quoth Choler) wanting heat</l>
                <l>But a mad one say I, where 'tis too great,</l>
                <l>Phrensie's worse then folly, one would more glad</l>
                <l>With a tame fool converse then with a mad;</l>
@@ -2326,7 +2326,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Nor jarrs nor scoffs, let none hereafter see,</l>
                <l>But all admire our perfect Amity</l>
                <l>
-                  <pb n="43" facs="tcp:0FA46E97241578F8:000244_0056_0FA36F394618E5D8"/>Nor be discern'd, here's water, earth, air, fire,</l>
+                  <pb n="43" facs="unknown:000244_0056_0FA36F394618E5D8"/>Nor be discern'd, here's water, earth, air, fire,</l>
                <l>But here so compact body, whole intire.</l>
                <l>This loving counsel pleas'd them all so well</l>
                <l>That flegm was judg'd for kindness to excell.</l>
@@ -2349,7 +2349,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Upon his head nature a Garland set</l>
             <l>Of Primrose, Daizy or the Violet.</l>
             <l>
-               <pb n="44" facs="tcp:0FA46E97241578F8:000244_0057_0FA36F3A081B0ED8"/>Suc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="44" facs="unknown:000244_0057_0FA36F3A081B0ED8"/>Suc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -2402,7 +2402,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Under his arm a sheaf of wheat he bore,</l>
             <l>An harvest of the best, what needs he more?</l>
             <l>
-               <pb n="45" facs="tcp:0FA46E97241578F8:000244_0058_0FA36F3AC62188C8"/>In's other hand a glass ev'n almost run,</l>
+               <pb n="45" facs="unknown:000244_0058_0FA36F3AC62188C8"/>In's other hand a glass ev'n almost run,</l>
             <l>Thus writ about <hi>This out then am I don<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</hi>
@@ -2437,7 +2437,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>VVith tears into the world I did arrive,</l>
                <l>My mother still did waste as I did thrive,</l>
                <l>
-                  <pb n="46" facs="tcp:0FA46E97241578F8:000244_0059_0FA36F3B8796CF60"/>Who yet with love and all alacrity,</l>
+                  <pb n="46" facs="unknown:000244_0059_0FA36F3B8796CF60"/>Who yet with love and all alacrity,</l>
                <l>Spending, was willing to be spent for me.</l>
                <l>With wayward cryes I did disturb her rest,</l>
                <l>Who sought still to appease me with the breast:</l>
@@ -2475,7 +2475,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>ist I, nor Martilist in'th field,</l>
                <l>Where ere I went mine innocence was shield.</l>
                <l>
-                  <pb n="47" facs="tcp:0FA46E97241578F8:000244_0060_0FA36F3C4AAF5230"/>My quarr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="47" facs="unknown:000244_0060_0FA36F3C4AAF5230"/>My quarr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ls not for Diadems did rise,</l>
                <l>But for an apple, plum or some such prize:</l>
@@ -2521,7 +2521,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And though I miss the tossings of the mind,</l>
                <l>Yet griefs in my frail flesh I still do find.</l>
                <l>
-                  <pb n="48" facs="tcp:0FA46E97241578F8:000244_0061_0FA36F3D062C0C30"/>VVhat gripes of wind mine infancy did pai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="48" facs="unknown:000244_0061_0FA36F3D062C0C30"/>VVhat gripes of wind mine infancy did pai<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>,</l>
                <l>VVhat tortures I in breeding teeth sustain?</l>
@@ -2553,7 +2553,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>The brave attempts of valiant knights I prize,</l>
                <l>That dare scale walls and forts rear'd to the skies.</l>
                <l>
-                  <pb n="49" facs="tcp:0FA46E97241578F8:000244_0062_0FA36F3E15F61DB8"/>The snorting Horse, the trumpet, Drum I like,</l>
+                  <pb n="49" facs="unknown:000244_0062_0FA36F3E15F61DB8"/>The snorting Horse, the trumpet, Drum I like,</l>
                <l>The glitt'ring sword<g ref="char:punc">▪</g> the Pistol and the Pike:</l>
                <l>I cannot lye intrench'd before a town,</l>
                <l>Nor wait till good success our hopes doth crown:</l>
@@ -2599,7 +2599,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> gone.</l>
                <l>
-                  <pb n="50" facs="tcp:0FA46E97241578F8:000244_0063_0FA36F3E8696E7A8"/>Sometimes I sit carousing others health,</l>
+                  <pb n="50" facs="unknown:000244_0063_0FA36F3E8696E7A8"/>Sometimes I sit carousing others health,</l>
                <l>Untill mine own be gone, my wit and wealth.</l>
                <l>From pipe to pot, from pot to words and blows,</l>
                <l>For <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2642,7 +2642,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>ce me:</l>
                <l>
-                  <pb n="51" facs="tcp:0FA46E97241578F8:000244_0064_0FA36F3F489A7808"/>Sometimes the two sold Pox me sore be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="51" facs="unknown:000244_0064_0FA36F3F489A7808"/>Sometimes the two sold Pox me sore be<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>marrs</l>
                <l>With outward marks, &amp; inward loathsome scarrs,</l>
@@ -2692,7 +2692,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>y<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="52" facs="tcp:0FA46E97241578F8:000244_0065_0FA36F40087A9010"/>Be my condition mean, I then take pains</l>
+                  <pb n="52" facs="unknown:000244_0065_0FA36F40087A9010"/>Be my condition mean, I then take pains</l>
                <l>My Family to keep but not for gains.</l>
                <l>A Father I, for children must provide;</l>
                <l>But if none<g ref="char:punc">▪</g> then for kindred near ally'd.</l>
@@ -2756,7 +2756,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>id toyle, did broyle, oppress'd, did steal and lye.</l>
                <l>
-                  <pb n="53" facs="tcp:0FA46E97241578F8:000244_0066_0FA36F40C616F1D8"/>Was I as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <pb n="53" facs="unknown:000244_0066_0FA36F40C616F1D8"/>Was I as <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
                </l>
@@ -2840,7 +2840,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>hstand.</l>
                <l>
-                  <pb n="54" facs="tcp:0FA46E97241578F8:000244_0067_0FA36F4186112960"/>Then thought my state firm founded sure to last,</l>
+                  <pb n="54" facs="unknown:000244_0067_0FA36F4186112960"/>Then thought my state firm founded sure to last,</l>
                <l>But in a trice 'tis ruin'd by a blast,</l>
                <l>Though cemented with more t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2885,7 +2885,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>And all you say, say I, and somewhat more.</l>
                <l>
-                  <pb n="55" facs="tcp:0FA46E97241578F8:000244_0068_0FA36F42460C7258"/>Babes innocence, youths wildness I have seen,</l>
+                  <pb n="55" facs="unknown:000244_0068_0FA36F42460C7258"/>Babes innocence, youths wildness I have seen,</l>
                <l>And in perplex<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d middle Age have been:</l>
@@ -2936,7 +2936,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>••</desc>
                   </gap>t.</l>
                <l>
-                  <pb n="56" facs="tcp:0FA46E97241578F8:000244_0069_0FA36F4306C6D530"/>Then saw I <hi>France</hi> and <hi>Holland,</hi> sav'd <hi>Cales</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="56" facs="unknown:000244_0069_0FA36F4306C6D530"/>Then saw I <hi>France</hi> and <hi>Holland,</hi> sav'd <hi>Cales</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n,</l>
                <l>And <hi>Philip</hi> and <hi>Albertus</hi> half undone.</l>
@@ -2982,7 +2982,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>I've seen one stab'd, and some to loose their heads</l>
                <l>And others fly, struck both with gilt and dread.</l>
                <l>
-                  <pb n="57" facs="tcp:0FA46E97241578F8:000244_0070_0FA36F43D3AB2418"/>I've seen and so have you<g ref="char:punc">▪</g> for tis but late,</l>
+                  <pb n="57" facs="unknown:000244_0070_0FA36F43D3AB2418"/>I've seen and so have you<g ref="char:punc">▪</g> for tis but late,</l>
                <l>The desolation of a goodly State,</l>
                <l>Plotted and acted so that none can tell,</l>
                <l>VVho gave the counsel, but the Prince of hell,</l>
@@ -3023,7 +3023,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>ms and hands once strong have lost their might</l>
                <l>I cannot labour, much less can I fight.</l>
                <l>
-                  <pb n="58" facs="tcp:0FA46E97241578F8:000244_0071_0FA36F44E4393180"/>My comely legs as nimble as the Roe</l>
+                  <pb n="58" facs="unknown:000244_0071_0FA36F44E4393180"/>My comely legs as nimble as the Roe</l>
                <l>Now stiff and numb, can hardly creep or goe,</l>
                <l>My heart sometimes as fierce as Lion bold,</l>
                <l>Now trembling is, all fearful sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3097,7 +3097,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </div>
          </div>
          <div type="poem">
-            <pb n="59" facs="tcp:0FA46E97241578F8:000244_0072_0FA36F4546AFD678"/>
+            <pb n="59" facs="unknown:000244_0072_0FA36F4546AFD678"/>
             <head>The four Seasons of the Year.</head>
             <div type="part">
                <head>Spring.</head>
@@ -3143,7 +3143,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>o gain:</l>
                <l>
-                  <pb n="60" facs="tcp:0FA46E97241578F8:000244_0073_0FA36F460611D928"/>The Gardner now superfluous bran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="60" facs="unknown:000244_0073_0FA36F460611D928"/>The Gardner now superfluous bran<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hes lops,</l>
                <l>And poles erects for his young clambring hops.</l>
@@ -3257,7 +3257,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>rment fine</l>
                <l>
-                  <pb n="61" facs="tcp:0FA46E97241578F8:000244_0074_0FA36F46C6E0CDA0"/>The fearfull bird his little house now builds</l>
+                  <pb n="61" facs="unknown:000244_0074_0FA36F46C6E0CDA0"/>The fearfull bird his little house now builds</l>
                <l>In trees and walls, in Cities and in fields.</l>
                <l>The outside strong, the inside warm and neat;</l>
                <l>A natural Artificer compleat.</l>
@@ -3329,7 +3329,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>••</desc>
                   </gap>scribe thee better then can I.</l>
                <l>
-                  <pb n="62" facs="tcp:0FA46E97241578F8:000244_0075_0FA36F4786105E40"/>Yet above all this priviledg is thine,</l>
+                  <pb n="62" facs="unknown:000244_0075_0FA36F4786105E40"/>Yet above all this priviledg is thine,</l>
                <l>Thy dayes still lengthen without least decline:</l>
             </div>
             <div type="part">
@@ -3403,7 +3403,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> have been dignifi'd.</l>
                <l>
-                  <pb n="63" facs="tcp:0FA46E97241578F8:000244_0076_0FA36F4847BA68A8"/>Blest rustick Swains, your pleas<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <pb n="63" facs="unknown:000244_0076_0FA36F4847BA68A8"/>Blest rustick Swains, your pleas<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>t quiet life,</l>
                <l>Hath envy bred in Kings that were at strife,</l>
@@ -3466,7 +3466,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>d fields look young again.</l>
                <l>
-                  <pb n="64" facs="tcp:0FA46E97241578F8:000244_0077_0FA36F490636D5E8"/>The groaning Carts do bear away this prize.</l>
+                  <pb n="64" facs="unknown:000244_0077_0FA36F490636D5E8"/>The groaning Carts do bear away this prize.</l>
                <l>To Stacks and Barns where it for Fodder lyes<g ref="char:punc">▪</g>
                </l>
                <l>My next and last is <hi>August</hi> fiery hot</l>
@@ -3516,7 +3516,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>ters lap.</l>
             </div>
             <div type="part">
-               <pb n="65" facs="tcp:0FA46E97241578F8:000244_0078_0FA36F49C602CD98"/>
+               <pb n="65" facs="unknown:000244_0078_0FA36F49C602CD98"/>
                <head>Autumn.</head>
                <l>Of <hi>Autumn</hi> moneths <hi>September</hi> is the prime,</l>
                <l>Now day and night are equal in each Clime,</l>
@@ -3561,7 +3561,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>inter-blasts begin to hiss.</l>
                <l>
-                  <pb n="66" facs="tcp:0FA46E97241578F8:000244_0079_0FA36F4A85F0D020"/>In <hi>Scorpio</hi> resideth now the Sun,</l>
+                  <pb n="66" facs="unknown:000244_0079_0FA36F4A85F0D020"/>In <hi>Scorpio</hi> resideth now the Sun,</l>
                <l>And his declining heat is almost done.</l>
                <l>The fruitless Trees all withered now do stand,</l>
                <l>Whose sapless yellow leavs by winds are fan'd,</l>
@@ -3655,7 +3655,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>m say.</l>
             </div>
             <div type="part">
-               <pb n="67" facs="tcp:0FA46E97241578F8:000244_0080_0FA36F4B460778E8"/>
+               <pb n="67" facs="unknown:000244_0080_0FA36F4B460778E8"/>
                <head>Winter<g ref="char:punc">▪</g>
                </head>
                <lg>
@@ -3712,7 +3712,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                         <desc>•</desc>
                      </gap>, he drive all cold away,</l>
                   <l>
-                     <pb n="68" facs="tcp:0FA46E97241578F8:000244_0081_0FA36F4C52644850"/>And thus the year in Circle runneth round:</l>
+                     <pb n="68" facs="unknown:000244_0081_0FA36F4C52644850"/>And thus the year in Circle runneth round:</l>
                   <l>Wher<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> first it did begin, in th' end its found,</l>
@@ -3732,7 +3732,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </div>
          </div>
          <div type="poem">
-            <pb n="69" facs="tcp:0FA46E97241578F8:000244_0082_0FA36F4CC6C29B28"/>
+            <pb n="69" facs="unknown:000244_0082_0FA36F4CC6C29B28"/>
             <head>The four <hi>Monarchyes,</hi> the <hi>Assyrian</hi> being the first, beginning under <hi>Nimrod,</hi> 131. Years after the Flood,</head>
             <div type="part">
                <l>WHen time was young, &amp; World in In<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3773,7 +3773,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>y him to Cities eminent did rise<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="70" facs="tcp:0FA46E97241578F8:000244_0083_0FA36F4D868AB690"/>Of <hi>Saturn,</hi> he was the Original.</l>
+                  <pb n="70" facs="unknown:000244_0083_0FA36F4D868AB690"/>Of <hi>Saturn,</hi> he was the Original.</l>
                <l>Whom the succeeding times a God did call,</l>
                <l>When thus with rule, he had been dignifi'd,</l>
                <l>One hundred fourteen years he after dy'd.</l>
@@ -3826,7 +3826,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>ed Towers stout.</l>
                <l>
-                  <pb n="71" facs="tcp:0FA46E97241578F8:000244_0084_0FA36F4E460CC848"/>The walls one hundred sixty foot upright,</l>
+                  <pb n="71" facs="unknown:000244_0084_0FA36F4E460CC848"/>The walls one hundred sixty foot upright,</l>
                <l>So broad three Cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>iots run abrest <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3897,7 +3897,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>o be drown'd for th crime she' d done.</l>
                <l>
-                  <pb n="72" facs="tcp:0FA46E97241578F8:000244_0085_0FA36F4F06BB9A30"/>Transform'd into a Fish by <hi>Venus</hi> will,</l>
+                  <pb n="72" facs="unknown:000244_0085_0FA36F4F06BB9A30"/>Transform'd into a Fish by <hi>Venus</hi> will,</l>
                <l>Her beauteo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> face, (they seign) reteining still.</l>
@@ -3936,7 +3936,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>adrangle was the form it stood upon<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="73" facs="tcp:0FA46E97241578F8:000244_0086_0FA36F4FC5F0B0E0"/>Each Square was fifteen thousand paces long,</l>
+                  <pb n="73" facs="unknown:000244_0086_0FA36F4FC5F0B0E0"/>Each Square was fifteen thousand paces long,</l>
                <l>An hundred gates it had of me<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>tal strong:</l>
@@ -4032,7 +4032,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>n.</l>
                <l>
-                  <pb n="74" facs="tcp:0FA46E97241578F8:000244_0087_0FA36F508603BBE0"/>The River <hi>Iudas</hi> swept them half away,</l>
+                  <pb n="74" facs="unknown:000244_0087_0FA36F508603BBE0"/>The River <hi>Iudas</hi> swept them half away,</l>
                <l>The rest <hi>Staurobates</hi> in fight did slay;</l>
                <l>This was last progress of this mighty Queen,</l>
                <l>Who in her Country <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4106,7 +4106,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>erate.</l>
                <l>
-                  <pb n="75" facs="tcp:0FA46E97241578F8:000244_0088_0FA36F514735B018"/>Nor can those Reasons which wise <hi>Raileih</hi> finds,</l>
+                  <pb n="75" facs="unknown:000244_0088_0FA36F514735B018"/>Nor can those Reasons which wise <hi>Raileih</hi> finds,</l>
                <l>VVell satisfie the most considerate minds:</l>
                <l>VVe may with learned <hi>V<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -4159,7 +4159,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His manly heart disdained (in the least)</l>
                <l>Longer to serve this Metamorphos'd Beast;</l>
                <l>
-                  <pb facs="tcp:0FA46E97241578F8:000244_0089_0FA36F5254413DE0"/>Unto <hi>Belosus</hi> then, he brake his mind,</l>
+                  <pb facs="unknown:000244_0089_0FA36F5254413DE0"/>Unto <hi>Belosus</hi> then, he brake his mind,</l>
                <l>Who sick of his disease, he soon did find</l>
                <l>These two, rul'd <hi>Media</hi> and <hi>Bab<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -4206,7 +4206,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Only intreats them, to joyn their Force with his,</l>
                <l>And win the Crown, which was the way to bliss.</l>
                <l>
-                  <pb n="77" facs="tcp:0FA46E97241578F8:000244_0090_0FA36F52C8494AC8"/>Won by his loving looks, more by his speech,</l>
+                  <pb n="77" facs="unknown:000244_0090_0FA36F52C8494AC8"/>Won by his loving looks, more by his speech,</l>
                <l>T' accept of what they could, they all beseech:</l>
                <l>Both sides their hearts their hands, &amp; bands unite,</l>
                <l>And set upon their Princes Camp that night;</l>
@@ -4239,7 +4239,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>But all his wealth and friends together gets,</l>
                <l>Then on himself, and them a fire he sets.</l>
                <l>
-                  <pb n="78" facs="tcp:0FA46E97241578F8:000244_0091_0FA36F5386A9F2A8"/>This was last Monarch of great <hi>Ninus</hi> race</l>
+                  <pb n="78" facs="unknown:000244_0091_0FA36F5386A9F2A8"/>This was last Monarch of great <hi>Ninus</hi> race</l>
                <l>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>at for twelve hundred years had held the place;</l>
@@ -4310,7 +4310,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>on the bordering lands,</l>
                <l>Till <hi>Mesopotamia</hi> he got in's hands.</l>
                <l>
-                  <pb n="79" facs="tcp:0FA46E97241578F8:000244_0092_0FA36F5445FFFAF0"/>And either by compound or else by strength,</l>
+                  <pb n="79" facs="unknown:000244_0092_0FA36F5445FFFAF0"/>And either by compound or else by strength,</l>
                <l>
                   <hi>Assyria</hi> he gain'd also at length;</l>
                <l>Then did rebuild, destroyed <hi>Nin<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4382,7 +4382,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>ome to his Son.</l>
             </div>
             <div type="part">
-               <pb n="80" facs="tcp:0FA46E97241578F8:000244_0093_0FA36F5505E913A8"/>
+               <pb n="80" facs="unknown:000244_0093_0FA36F5505E913A8"/>
                <head>Tiglath Pulassar.</head>
                <l>
                   <hi>Belosus</hi> dead, <hi>Tigla<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4465,7 +4465,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </hi> now he march'd none stopt his, way</l>
                <l>And <hi>Ahaz</hi> open at his mercy lay;</l>
                <l>
-                  <pb n="81" facs="tcp:0FA46E97241578F8:000244_0094_0FA36F55C79B20D8"/>Who still implor'd his love, but was distrest<g ref="char:punc">▪</g>
+                  <pb n="81" facs="unknown:000244_0094_0FA36F55C79B20D8"/>Who still implor'd his love, but was distrest<g ref="char:punc">▪</g>
                </l>
                <l>This was that <hi>Ahaz,</hi> who so high tra<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -4531,7 +4531,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                         <desc>•</desc>
                      </gap>,</hi> as yet ne're blest,</l>
                <l>
-                  <pb n="82" facs="tcp:0FA46E97241578F8:000244_0095_0FA36F5687781C00"/>Or else those <hi>
+                  <pb n="82" facs="unknown:000244_0095_0FA36F5687781C00"/>Or else those <hi>
                      <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>inoes</hi> rare, whose wealth &amp; arts</l>
@@ -4588,7 +4588,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And <hi>Merodach</hi> assume the Monarchy.</l>
             </div>
             <div type="part">
-               <pb n="83" facs="tcp:0FA46E97241578F8:000244_0096_0FA36F5745DBAA10"/>
+               <pb n="83" facs="unknown:000244_0096_0FA36F5745DBAA10"/>
                <head>Merodach B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>lladan.</head>
@@ -4650,7 +4650,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>.</l>
                <l>
-                  <pb n="84" facs="tcp:0FA46E97241578F8:000244_0097_0FA36F5805EFED90"/>But by the Prophets, Pen-men mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="84" facs="unknown:000244_0097_0FA36F5805EFED90"/>But by the Prophets, Pen-men mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t divine,</l>
                <l>This prince in's magn<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -4708,7 +4708,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>t all the world out-face,</l>
                <l>
-                  <pb n="85" facs="tcp:0FA46E97241578F8:000244_0098_0FA36F5914B60468"/>
+                  <pb n="85" facs="unknown:000244_0098_0FA36F5914B60468"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> in her pride she knew not which to boast</l>
@@ -4763,7 +4763,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>hes with a speedy course,</l>
                <l>
-                  <pb n="86" facs="tcp:0FA46E97241578F8:000244_0099_0FA36E8247D4B708"/>And unexpected finds the feeble Prince</l>
+                  <pb n="86" facs="unknown:000244_0099_0FA36E8247D4B708"/>And unexpected finds the feeble Prince</l>
                <l>Whom he chastis'd thus for his proud offence,</l>
                <l>Fast bound<g ref="char:punc">▪</g> intends to <hi>Babel</hi> him to send,</l>
                <l>But chang'd his mind, &amp; caus'd his life there end,</l>
@@ -4797,7 +4797,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>In midst of <hi>Babel</hi> now till death he lyes;</l>
                <l>Yet as was told ne're saw it with his eyes.</l>
                <l>
-                  <pb n="87" facs="tcp:0FA46E97241578F8:000244_0100_0FA36E830DACA028"/>The Temple<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="87" facs="unknown:000244_0100_0FA36E830DACA028"/>The Temple<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s burnt the vessels had away.</l>
                <l>The towres and palaces brought to <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4895,7 +4895,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>In splendor, and in Majesty he sits,</l>
                <l>Contemplating those times he lost his witts.</l>
                <l>
-                  <pb n="88" facs="tcp:0FA46E97241578F8:000244_0101_0FA36E83C7CFFC18"/>And if by words we may ghess at the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="88" facs="unknown:000244_0101_0FA36E83C7CFFC18"/>And if by words we may ghess at the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>eart,</l>
                <l>This king among the righteous had a part:</l>
@@ -4948,7 +4948,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His lust and crueltyes in storyes find,</l>
                <l>A royal State rul d by a bruitish mind.</l>
                <l>
-                  <pb n="89" facs="tcp:0FA46E97241578F8:000244_0102_0FA36E84873F83B8"/>His life so base and dissolute invites</l>
+                  <pb n="89" facs="unknown:000244_0102_0FA36E84873F83B8"/>His life so base and dissolute invites</l>
                <l>The noble <hi>Persian</hi> to invade his rights:</l>
                <l>Who with his own, and Uncles power anon,</l>
                <l>Layes siedge to's Regal Seat, proud <hi>Babylon,</hi>
@@ -4981,7 +4981,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>As dead, alive he sits, as one undone:</l>
                <l>In comes the Queen, to chear her heartless Son.</l>
                <l>
-                  <pb n="90" facs="tcp:0FA46E97241578F8:000244_0103_0FA36E85978072F0"/>Of <hi>Daniel</hi> tells, who in his grand sires dayes</l>
+                  <pb n="90" facs="unknown:000244_0103_0FA36E85978072F0"/>Of <hi>Daniel</hi> tells, who in his grand sires dayes</l>
                <l>VVas held in more accoun<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> then now he was.</l>
@@ -5028,7 +5028,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <trailer>The End of the Assyrian Monarchy.</trailer>
          </div>
          <div type="poem">
-            <pb facs="tcp:0FA46E97241578F8:000244_0104_0FA36E8620995640"/>
+            <pb facs="unknown:000244_0104_0FA36E8620995640"/>
             <head>The Second <hi>Monarchy,</hi> being the <hi>Persian,</hi> began under <hi>Cyrus, Darius</hi> being his Uncle and Father-in-law reigned with him about two years.</head>
             <div type="part">
                <l>
@@ -5067,7 +5067,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His nourishment afforded by a Bitch,</l>
                <l>Are fit for such, whose ears for Fables itch·</l>
                <l>
-                  <pb n="91" facs="tcp:0FA46E97241578F8:000244_0105_0FA36E86C7DD2348"/>He in his younger day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="91" facs="unknown:000244_0105_0FA36E86C7DD2348"/>He in his younger day<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s an Army led,</l>
                <l>Against great <hi>Cressus</hi> then of <hi>Lidia</hi> head;</l>
@@ -5113,7 +5113,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   <hi>Cyrus</hi> with pitty mov'd knowing Kings stand,</l>
                <l>Now up and down, as fortune turns her hand,</l>
                <l>
-                  <pb n="93" facs="tcp:0FA46E97241578F8:000244_0106_0FA36E8789578E48"/>Weighing the Age, and greatness of the Prince,</l>
+                  <pb n="93" facs="unknown:000244_0106_0FA36E8789578E48"/>Weighing the Age, and greatness of the Prince,</l>
                <l>(His Mothers Uncle) stories do evince:</l>
                <l>Gave him his life, and took him for a friend,</l>
                <l>Did to him still his chief designs commend.</l>
@@ -5159,7 +5159,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>s a mighty power,</l>
                <l>And sets on <hi>Cyrus,</hi> in a fatal hour;</l>
                <l>
-                  <pb n="94" facs="tcp:0FA46E97241578F8:000244_0107_0FA36E884A893460"/>There routs his Host, himself she prisoner takes,</l>
+                  <pb n="94" facs="unknown:000244_0107_0FA36E884A893460"/>There routs his Host, himself she prisoner takes,</l>
                <l>And at one blow (worlds head) she headless makes</l>
                <l>The which she bath'd, within a But of bloud,</l>
                <l>Using such taunting words, as she thought good.</l>
@@ -5224,7 +5224,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>t <hi>Egypts</hi> King, who there by him was slain.</l>
                <l>
-                  <pb n="95" facs="tcp:0FA46E97241578F8:000244_0108_0FA36E8908FA04F8"/>And all of Royal Bloud<g ref="char:punc">▪</g> that came to hand,</l>
+                  <pb n="95" facs="unknown:000244_0108_0FA36E8908FA04F8"/>And all of Royal Bloud<g ref="char:punc">▪</g> that came to hand,</l>
                <l>He seized first of Life and then of Land,</l>
                <l>(But little <hi>Narus</hi> scap'd that cruel <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -5283,7 +5283,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His Sister (whom Incestuously he wed,)</l>
                <l>Hearing her harmless brother thus was dead.</l>
                <l>
-                  <pb n="96" facs="tcp:0FA46E97241578F8:000244_0109_0FA36E89C96FF078"/>His wofull death with tears did so bemoan,</l>
+                  <pb n="96" facs="unknown:000244_0109_0FA36E89C96FF078"/>His wofull death with tears did so bemoan,</l>
                <l>That by her husbands charge, she caught her own,</l>
                <l>She with her fruit at once were both undone</l>
                <l>Who would have born a Nephew and a son.</l>
@@ -5325,7 +5325,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>dfull Conquerour.</l>
                <l>
-                  <pb n="97" facs="tcp:0FA46E97241578F8:000244_0110_0FA36E8A87B08568"/>Grief for his brothers death he did express,</l>
+                  <pb n="97" facs="unknown:000244_0110_0FA36E8A87B08568"/>Grief for his brothers death he did express,</l>
                <l>And more, because he died Issueless.</l>
                <l>The male line of great <hi>Cyrus</hi> now had end,</l>
                <l>The Female to many Ages did extend.</l>
@@ -5370,7 +5370,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>What form of government now to erect</l>
                <l>The old, or new, which best, in what respect.</l>
                <l>
-                  <pb n="98" facs="tcp:0FA46E97241578F8:000244_0111_0FA36E8B47CCA4A0"/>The greater part declin'd a Monar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="98" facs="unknown:000244_0111_0FA36E8B47CCA4A0"/>The greater part declin'd a Monar<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hy</l>
                <l>So late cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5417,7 +5417,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>He two of <hi>Cyrus</hi> daughters then doth wed,</l>
                <l>Two of his Neeces takes to Nuptial bed,</l>
                <l>
-                  <pb n="99" facs="tcp:0FA46E97241578F8:000244_0112_0FA36E8C08CB6760"/>By which he cuts their hopes for future time,</l>
+                  <pb n="99" facs="unknown:000244_0112_0FA36E8C08CB6760"/>By which he cuts their hopes for future time,</l>
                <l>That by such steps to Kingdomes ofte<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> clime.</l>
@@ -5465,7 +5465,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>nour's manifold,</l>
                <l>Who doth deserve a statue made of gold.</l>
                <l>
-                  <pb n="100" facs="tcp:0FA46E97241578F8:000244_0113_0FA36E8CC7CB21E8"/>Nor can <hi>Dariu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="100" facs="unknown:000244_0113_0FA36E8CC7CB21E8"/>Nor can <hi>Dariu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
                   </hi> in his Monarchy,</l>
@@ -5514,7 +5514,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>By these alone his host was pincht so sore,</l>
                <l>He warr'd defensive, not offensive more.</l>
                <l>
-                  <pb n="101" facs="tcp:0FA46E97241578F8:000244_0114_0FA36E8D87121AB8"/>The Salvages did laugh at his distress,</l>
+                  <pb n="101" facs="unknown:000244_0114_0FA36E8D87121AB8"/>The Salvages did laugh at his distress,</l>
                <l>Their minds by Hiroglyphicks they express,</l>
                <l>A Frog a Mouse, a bird, an arrow sent,</l>
                <l>The King will needs interpret their intent,</l>
@@ -5561,7 +5561,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Pursues his flying foes then on the sand,</l>
                <l>He stayes a lanching gally with his hand,</l>
                <l>
-                  <pb n="102" facs="tcp:0FA46E97241578F8:000244_0115_0FA36E8E471B6D70"/>Which soon cut off, inrag'd, he with his left,</l>
+                  <pb n="102" facs="unknown:000244_0115_0FA36E8E471B6D70"/>Which soon cut off, inrag'd, he with his left,</l>
                <l>Renews his <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>old, and when of that bereft,</l>
@@ -5608,7 +5608,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>t for the last, he made such preparation,</l>
                <l>As if to dust, he meant, to grinde that nation;</l>
                <l>
-                  <pb n="103" facs="tcp:0FA46E97241578F8:000244_0116_0FA36E8F0704C890"/>Yet all his men, and Instruments of slaughter,</l>
+                  <pb n="103" facs="unknown:000244_0116_0FA36E8F0704C890"/>Yet all his men, and Instruments of slaughter,</l>
                <l>Produced but derision and la<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ghter,</l>
@@ -5649,7 +5649,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>Who married the Sister of <hi>Darius.</hi>)</l>
                <l>
-                  <pb n="104" facs="tcp:0FA46E97241578F8:000244_0117_0FA36E8FC747B948"/>Such his land Forces were, then next a fleet,</l>
+                  <pb n="104" facs="unknown:000244_0117_0FA36E8FC747B948"/>Such his land Forces were, then next a fleet,</l>
                <l>Of two and twenty thousand Gallies meet</l>
                <l>Man'd with <hi>Phenicians</hi> and <hi>Pamphylians</hi>
                </l>
@@ -5687,7 +5687,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Then laid his parts on both sides of the way,</l>
                <l>'Twixt which his souldiers marcht in good array.</l>
                <l>
-                  <pb n="105" facs="tcp:0FA46E97241578F8:000244_0118_0FA36E90879FC458"/>For his great love is this thy recompence?</l>
+                  <pb n="105" facs="unknown:000244_0118_0FA36E90879FC458"/>For his great love is this thy recompence?</l>
                <l>Is this to do like <hi>Xerx<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s</hi> or a Prince?</l>
@@ -5738,7 +5738,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His answer was, both sea and land he fear'd,</l>
                <l>Which was not vain as after soon appear'd.</l>
                <l>
-                  <pb n="106" facs="tcp:0FA46E97241578F8:000244_0119_0FA36E914969C270"/>But <hi>Xerxes</hi> resolute to <hi>Thrace</hi> goes first,</l>
+                  <pb n="106" facs="unknown:000244_0119_0FA36E914969C270"/>But <hi>Xerxes</hi> resolute to <hi>Thrace</hi> goes first,</l>
                <l>His Host all <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ssus</hi> drinks, to quench their t<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5810,7 +5810,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>los'd their Fleet i'th' streight of <hi>Eubea:</hi>
                </l>
                <l>
-                  <pb n="107" facs="tcp:0FA46E97241578F8:000244_0120_0FA36E9207134780"/>But they as fortunate at Sea as Land,</l>
+                  <pb n="107" facs="unknown:000244_0120_0FA36E9207134780"/>But they as fortunate at Sea as Land,</l>
                <l>In this streight as the other firmly stand.</l>
                <l>And <hi>Xerxes</hi> mighty Gallyes battered so,</l>
                <l>That their split sides witness d his overthrow;</l>
@@ -5860,7 +5860,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Three hundred thousand yet he left behind,</l>
                <l>VVith his <hi>Mardonius</hi> Index of his mind;</l>
                <l>
-                  <pb n="108" facs="tcp:0FA46E97241578F8:000244_0121_0FA36E931DDEC638"/>Who for his sake he knew would venture farre,</l>
+                  <pb n="108" facs="unknown:000244_0121_0FA36E931DDEC638"/>Who for his sake he knew would venture farre,</l>
                <l>(Chief instigator of this hapless warr.)</l>
                <l>He instantly to <hi>Athens</hi> sends for peace,</l>
                <l>That all Hostility from thence forth cease;</l>
@@ -5903,7 +5903,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>The rest had weapons would do little harm<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="109" facs="tcp:0FA46E97241578F8:000244_0122_0FA36E93A56BC1F8"/>But that which helpt defects, and made them bold,</l>
+                  <pb n="109" facs="unknown:000244_0122_0FA36E93A56BC1F8"/>But that which helpt defects, and made them bold,</l>
                <l>Was victory by Oracle foretold.</l>
                <l>Then for one battel shortly all provide,</l>
                <l>Where both their Controversies they'l decide;</l>
@@ -5947,7 +5947,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Nor matching of her daughter to his Son,</l>
                <l>But she was still as when he first begun:</l>
                <l>
-                  <pb n="110" facs="tcp:0FA46E97241578F8:000244_0123_0FA36E9446F2E670"/>When jealous Queen <hi>Amestris</hi> of this knew,</l>
+                  <pb n="110" facs="unknown:000244_0123_0FA36E9446F2E670"/>When jealous Queen <hi>Amestris</hi> of this knew,</l>
                <l>She Harpy like upon the Lady flew,</l>
                <l>Cut off her breasts<g ref="char:punc">▪</g> her lips<g ref="char:punc">▪</g> her nose and ears,</l>
                <l>And leavs her thus besmear'd in bloud and tears.</l>
@@ -5982,7 +5982,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Accus'd <hi>Darius Xerxes</hi> eldest Son,</l>
                <l>To be the Author of the crime was done.</l>
                <l>
-                  <pb n="111" facs="tcp:0FA46E97241578F8:000244_0124_0FA36E9508DCA958"/>And by his craft order'd the matter so,</l>
+                  <pb n="111" facs="unknown:000244_0124_0FA36E9508DCA958"/>And by his craft order'd the matter so,</l>
                <l>That the Prince innocent to death did goe:</l>
                <l>But in short time this wickedness was known,</l>
                <l>For which he died, and not he alone,</l>
@@ -6029,7 +6029,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>ded,</l>
                <l>
-                  <pb n="112" facs="tcp:0FA46E97241578F8:000244_0125_0FA36E95C82288E8"/>And one more worthy placed in her room,</l>
+                  <pb n="112" facs="unknown:000244_0125_0FA36E95C82288E8"/>And one more worthy placed in her room,</l>
                <l>By <hi>Memucans</hi> advice so was the doom.</l>
                <l>What <hi>Esther</hi> was and did, the story read,</l>
                <l>And how her Country men from spoyle she freed,</l>
@@ -6060,7 +6060,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Provisions then and season being fit,</l>
                <l>To <hi>Themistocles</hi> this warr he doth commit,</l>
                <l>
-                  <pb n="113" facs="tcp:0FA46E97241578F8:000244_0126_0FA36E9687278EE8"/>Who for his wrong he could not chuse but deem</l>
+                  <pb n="113" facs="unknown:000244_0126_0FA36E9687278EE8"/>Who for his wrong he could not chuse but deem</l>
                <l>His Country nor his Friends would much esteem<g ref="char:punc">▪</g>
                </l>
                <l>But he all injury had soon forg<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6097,7 +6097,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Joyns with the <hi>Greeks,</hi> and so maintain their right</l>
                <l>For sixty years, maugre the <hi>Persians</hi> might.</l>
                <l>
-                  <pb n="114" facs="tcp:0FA46E97241578F8:000244_0127_0FA36E9749ED2B10"/>A second trouble after this succeeds,</l>
+                  <pb n="114" facs="unknown:000244_0127_0FA36E9749ED2B10"/>A second trouble after this succeeds,</l>
                <l>Which from remissness in <hi>Less Asia</hi> breeds.</l>
                <l>
                   <hi>Amorges,</hi> whom for Vice-Roy he ordain'd,</l>
@@ -6148,7 +6148,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His large Dominions left to's eldest Son.</l>
             </div>
             <div type="part">
-               <pb n="115" facs="tcp:0FA46E97241578F8:000244_0128_0FA36E98071E4400"/>
+               <pb n="115" facs="unknown:000244_0128_0FA36E98071E4400"/>
                <head>Artaxerxes Mnemon.</head>
                <l>
                   <hi>Mnemon</hi> now set upon his Fathers Throne,</l>
@@ -6196,7 +6196,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> out;</l>
                <l>
-                  <pb n="116" facs="tcp:0FA46E97241578F8:000244_0129_0FA36E98C86E9990"/>But lest some blacker news should fly to Court,</l>
+                  <pb n="116" facs="unknown:000244_0129_0FA36E98C86E9990"/>But lest some blacker news should fly to Court,</l>
                <l>Prepares himself to carry the report:</l>
                <l>And for that end five hundred Horse he chose;</l>
                <l>With posting speed on t'wards the king he goes:</l>
@@ -6257,7 +6257,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Had not his Captains sore against his will</l>
                <l>By reason and by force detain'd him still,</l>
                <l>
-                  <pb n="11" facs="tcp:0FA46E97241578F8:000244_0130_0FA36E99870BB600"/>Up then with speed a mighty trench he throws</l>
+                  <pb n="11" facs="unknown:000244_0130_0FA36E99870BB600"/>Up then with speed a mighty trench he throws</l>
                <l>For his security against his <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>oes.</l>
@@ -6294,7 +6294,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>So had he been, and got the victory,</l>
                <l>Had not his too much valour put him by.</l>
                <l>
-                  <pb n="118" facs="tcp:0FA46E97241578F8:000244_0131_0FA36E9A470FFFA8"/>He with six hundred on a Squadron set,</l>
+                  <pb n="118" facs="unknown:000244_0131_0FA36E9A470FFFA8"/>He with six hundred on a Squadron set,</l>
                <l>Of thousands six wherein the King was yet,</l>
                <l>And brought his Souldiers on so gallantly,</l>
                <l>They ready were to leave their King and fly;</l>
@@ -6335,7 +6335,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>rehead stamp'd.</l>
                <l>
-                  <pb n="119" facs="tcp:0FA46E97241578F8:000244_0132_0FA36E9B07C17940"/>His hurri'd thoughts he after recollec<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <pb n="119" facs="unknown:000244_0132_0FA36E9B07C17940"/>His hurri'd thoughts he after recollec<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>.</l>
                <l>Of this dayes Cowardize he fears th' effects.</l>
@@ -6393,7 +6393,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>But violates his honour and his word,</l>
                <l>And Villain like there puts them all to th' Sword.</l>
                <l>
-                  <pb n="120" facs="tcp:0FA46E97241578F8:000244_0133_0FA36E9BC8D473C8"/>The <hi>Greeks</hi> seeing their valiant Captains slain,</l>
+                  <pb n="120" facs="unknown:000244_0133_0FA36E9BC8D473C8"/>The <hi>Greeks</hi> seeing their valiant Captains slain,</l>
                <l>Chose <hi>X<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nop<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6441,7 +6441,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Which overthrow incens'd the King so sore,</l>
                <l>That <hi>Tissaphern</hi> must be Viceroy no more.</l>
                <l>
-                  <pb n="121" facs="tcp:0FA46E97241578F8:000244_0134_0FA36E9C88ABE110"/>
+                  <pb n="121" facs="unknown:000244_0134_0FA36E9C88ABE110"/>
                   <hi>Tythraustes</hi> then is placed in his stead,</l>
                <l>Commission hath to take the others head:</l>
                <l>Of that perjurious wretch this was the fate,</l>
@@ -6475,7 +6475,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>But the old Queen implacable in strife,</l>
                <l>By poyson caus'd, the young one lose her life.</l>
                <l>
-                  <pb n="122" facs="tcp:0FA46E97241578F8:000244_0135_0FA36E9D473692A8"/>The King highly inrag'd doth hereupon</l>
+                  <pb n="122" facs="unknown:000244_0135_0FA36E9D473692A8"/>The King highly inrag'd doth hereupon</l>
                <l>From Court exile her unto <hi>Babilon</hi>:</l>
                <l>But shortly calls her home, her counsells prize,</l>
                <l>(A Lady very wicked<g ref="char:punc">▪</g> but yet wise)</l>
@@ -6517,7 +6517,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      </gap>s</hi> slain.</l>
             </div>
             <div type="part">
-               <pb n="123" facs="tcp:0FA46E97241578F8:000244_0136_0FA36E9E07AD83E0"/>
+               <pb n="123" facs="unknown:000244_0136_0FA36E9E07AD83E0"/>
                <head>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>sames or Arses,</head>
@@ -6566,7 +6566,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Some write great <hi>Cyrus</hi> line was not yet run.</l>
                <l>But from some daughter this new king was sprung</l>
                <l>
-                  <pb n="124" facs="tcp:0FA46E97241578F8:000244_0137_0FA36E9ECA501360"/>If so, or not, we cannot tell, but find</l>
+                  <pb n="124" facs="unknown:000244_0137_0FA36E9ECA501360"/>If so, or not, we cannot tell, but find</l>
                <l>That several men will have their several mind;</l>
                <l>Yet in such differences we may be bold,</l>
                <l>Wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6603,7 +6603,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </trailer>
          </div>
          <div type="poem">
-            <pb n="125" facs="tcp:0FA46E97241578F8:000244_0138_0FA36E9F88E62320"/>
+            <pb n="125" facs="unknown:000244_0138_0FA36E9F88E62320"/>
             <head>The <hi>Third Monarchy,</hi> being the <hi>Grecian,</hi> beginning under <hi>Alexander the Great</hi> in the 112. <hi>Olympiad.</hi>
             </head>
             <div type="part">
@@ -6626,7 +6626,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>This is the He-Goat which from <hi>Grecia</hi> came,</l>
                <l>That ran in Choler on the <hi>Persian</hi> Ram,</l>
                <l>
-                  <pb n="126" facs="tcp:0FA46E97241578F8:000244_0139_0FA36EA09A833F28"/>That brake his horns, that threw him on the ground</l>
+                  <pb n="126" facs="unknown:000244_0139_0FA36EA09A833F28"/>That brake his horns, that threw him on the ground</l>
                <l>To save him fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> his might no man was found:</l>
@@ -6699,7 +6699,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>h among his Souldiers gave.</l>
                <l>
-                  <pb n="127" facs="tcp:0FA46E97241578F8:000244_0140_0FA36EA107B4A030"/>And being ask'd what for himself was left,</l>
+                  <pb n="127" facs="unknown:000244_0140_0FA36EA107B4A030"/>And being ask'd what for himself was left,</l>
                <l>Reply'd<g ref="char:punc">▪</g> enough, sith only hope he kept.</l>
                <l>Thirty two thousand made up his Foot force,</l>
                <l>To which were joyn'd five thousand goodly horse.</l>
@@ -6741,7 +6741,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>ctory did <hi>Alexander</hi> gain,</l>
                <l>With loss of thirty four of his there slain;</l>
                <l>
-                  <pb n="128" facs="tcp:0FA46E97241578F8:000244_0141_0FA36EA1C9410C90"/>Then <hi>Sardis</hi> he, and <hi>Ephesus</hi> did gain,</l>
+                  <pb n="128" facs="unknown:000244_0141_0FA36EA1C9410C90"/>Then <hi>Sardis</hi> he, and <hi>Ephesus</hi> did gain,</l>
                <l>VVhere stood of late, <hi>Diana</hi>'s wondrous <hi>Phane,</hi>
                </l>
                <l>And by <hi>Parmenio</hi> (of renowned Fame,)</l>
@@ -6777,7 +6777,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>The rest Attendants, which made up no less,</l>
                <l>Both Sexes there was almost numberless.</l>
                <l>
-                  <pb n="129" facs="tcp:0FA46E97241578F8:000244_0142_0FA36EA28A925068"/>For this wife King had brought to see the sport,</l>
+                  <pb n="129" facs="unknown:000244_0142_0FA36EA28A925068"/>For this wife King had brought to see the sport,</l>
                <l>With him the greatest Ladyes of the Court,</l>
                <l>His mother, his beauteous Queen and daughters,</l>
                <l>It seems to see the <hi>Macedonian</hi> slaughters.</l>
@@ -6815,7 +6815,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Great <hi>Sysigambis</hi> she brought up the Reer,</l>
                <l>Then such a world of waggons did appear,</l>
                <l>
-                  <pb n="130" facs="tcp:0FA46E97241578F8:000244_0143_0FA36EA3471395A0"/>Like several houses moving upon wheels,</l>
+                  <pb n="130" facs="unknown:000244_0143_0FA36EA3471395A0"/>Like several houses moving upon wheels,</l>
                <l>As if she'd drawn whole <hi>Shushan</hi> at her heels<g ref="char:punc">▪</g>
                </l>
                <l>This brave <hi>Virago</hi> to the King was mother,</l>
@@ -6858,7 +6858,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Yet all this grief, this loss, this overthrow,</l>
                <l>Was but beginning of his future woe.</l>
                <l>
-                  <pb n="131" facs="tcp:0FA46E97241578F8:000244_0144_0FA36EA4076A5890"/>The royal Captives brought to <hi>Alexander</hi>
+                  <pb n="131" facs="unknown:000244_0144_0FA36EA4076A5890"/>The royal Captives brought to <hi>Alexander</hi>
                </l>
                <l>T'ward them demean'd himself like a Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -6901,7 +6901,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Desires to offer unto <hi>Hercules.</hi>
                </l>
                <l>
-                  <pb n="132" facs="tcp:0FA46E97241578F8:000244_0145_0FA36EA4C8D31438"/>Protector of their town, by whom defended,</l>
+                  <pb n="132" facs="unknown:000244_0145_0FA36EA4C8D31438"/>Protector of their town, by whom defended,</l>
                <l>And from whom he lineally descended.</l>
                <l>But they accept not this in any wise,</l>
                <l>Lest he intend more fraud then sacrifice,</l>
@@ -6942,7 +6942,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   <hi>Ephestion</hi> having chief command of th' Fleet,</l>
                <l>At <hi>Gaza</hi> now must <hi>Alexander</hi> meet.</l>
                <l>
-                  <pb n="133" facs="tcp:0FA46E97241578F8:000244_0146_0FA36EA587077810"/>
+                  <pb n="133" facs="unknown:000244_0146_0FA36EA587077810"/>
                   <hi>Darius</hi> finding troubles still increase,</l>
                <l>By his Ambassadors now sues for peace,</l>
                <l>And layes before great <hi>Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6980,7 +6980,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And by these walls so many men were slain,</l>
                <l>That <hi>Greece</hi> was forc'd to yield supply again.</l>
                <l>
-                  <pb n="134" facs="tcp:0FA46E97241578F8:000244_0147_0FA36EA646F62290"/>But yet this well defended Town was taken.</l>
+                  <pb n="134" facs="unknown:000244_0147_0FA36EA646F62290"/>But yet this well defended Town was taken.</l>
                <l>For 'twas decree'd, that Empire should be shaken;</l>
                <l>Thus <hi>Betis</hi> ta'en had holes bor'd through his feet<g ref="char:punc">▪</g>
                </l>
@@ -7032,7 +7032,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>hat his humanity will not retain.</l>
                <l>
-                  <pb n="135" facs="tcp:0FA46E97241578F8:000244_0148_0FA36EA707B18738"/>Thence back to <hi>Egypt</hi> goes, and in few dayes;</l>
+                  <pb n="135" facs="unknown:000244_0148_0FA36EA707B18738"/>Thence back to <hi>Egypt</hi> goes, and in few dayes;</l>
                <l>Fair <hi>Al<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>andria</hi> from the ground doth raise<g ref="char:punc">▪</g>
@@ -7082,7 +7082,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>But when inform'd how royally the King,</l>
                <l>Had used her, and hers, in every thing,</l>
                <l>
-                  <pb n="136" facs="tcp:0FA46E97241578F8:000244_0149_0FA36EA7C7077BF8"/>He prays the immortal Gods they would reward</l>
+                  <pb n="136" facs="unknown:000244_0149_0FA36EA7C7077BF8"/>He prays the immortal Gods they would reward</l>
                <l>Great <hi>Alexander</hi> for this good regard;</l>
                <l>And if they down his Monarchy will throw,</l>
                <l>Let them on him this dignity bestow</l>
@@ -7120,7 +7120,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   <hi>Parmenio, Alexander,</hi> wisht that night,</l>
                <l>To force his Camp, so vanquish them by flight.</l>
                <l>
-                  <pb n="137" facs="tcp:0FA46E97241578F8:000244_0150_0FA36EA887A38160"/>For tumult in the night doth cause most dread,</l>
+                  <pb n="137" facs="unknown:000244_0150_0FA36EA887A38160"/>For tumult in the night doth cause most dread,</l>
                <l>And weakness o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> a Foe is covered,</l>
@@ -7168,7 +7168,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>
                </l>
                <l>
-                  <pb n="138" facs="tcp:0FA46E97241578F8:000244_0151_0FA36EA9488296C0"/>And to possess he counts no little bliss</l>
+                  <pb n="138" facs="unknown:000244_0151_0FA36EA9488296C0"/>And to possess he counts no little bliss</l>
                <l>The towres and bowres of proud <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>miramis,</hi>
@@ -7220,7 +7220,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>With open gates the wealthy town did stand,</l>
                <l>And all in it was at his high command.</l>
                <l>
-                  <pb n="139" facs="tcp:0FA46E97241578F8:000244_0152_0FA36EAA06F11598"/>Of all the Cities that on earth was fou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <pb n="139" facs="unknown:000244_0152_0FA36EAA06F11598"/>Of all the Cities that on earth was fou<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>,</l>
                <l>None like to this in riches did abound:</l>
@@ -7269,7 +7269,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      </gap>
                   </hi> hate:</l>
                <l>
-                  <pb n="140" facs="tcp:0FA46E97241578F8:000244_0153_0FA36EAAC6FED138"/>But deaf to reason, bent to have his will,</l>
+                  <pb n="140" facs="unknown:000244_0153_0FA36EAAC6FED138"/>But deaf to reason, bent to have his will,</l>
                <l>Those stately streets with raging flame did fill<g ref="char:punc">▪</g>
                </l>
                <l>Then to <hi>Darius</hi> he directs his way,</l>
@@ -7334,7 +7334,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Straight <hi>Bessus</hi> comes, &amp; with his trait'rous hands</l>
                <l>Layes hold on's Lord, and binding him with bands</l>
                <l>
-                  <pb n="141" facs="tcp:0FA46E97241578F8:000244_0154_0FA36EAB86FF1F58"/>Throws him into a Cart, covered with hides,</l>
+                  <pb n="141" facs="unknown:000244_0154_0FA36EAB86FF1F58"/>Throws him into a Cart, covered with hides,</l>
                <l>Who wanting means t' resist these wrongs abides,</l>
                <l>Then draws the cart along with chains of gold,</l>
                <l>In more despight the thraled prince to hold,</l>
@@ -7382,7 +7382,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His lost felicity did grieve him sore,</l>
                <l>But this unheard of treachery much more:</l>
                <l>
-                  <pb n="142" facs="tcp:0FA46E97241578F8:000244_0155_0FA36EAC472256F8"/>But above all, that neither Ear nor Eye</l>
+                  <pb n="142" facs="unknown:000244_0155_0FA36EAC472256F8"/>But above all, that neither Ear nor Eye</l>
                <l>Should hear nor see his dying misery;</l>
                <l>As thus he lay, <hi>Polistrates</hi> a Greek,</l>
                <l>Wearied with his long march, did water seek,</l>
@@ -7438,7 +7438,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>;</l>
                <l>
-                  <pb n="143" facs="tcp:0FA46E97241578F8:000244_0156_0FA36EAD06E2BDB8"/>Thy service and compassion to reward,</l>
+                  <pb n="143" facs="unknown:000244_0156_0FA36EAD06E2BDB8"/>Thy service and compassion to reward,</l>
                <l>But <hi>Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>xander</hi> will, for this regard.</l>
@@ -7486,7 +7486,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>cy'd Gods above the Firmament.</l>
                <l>
-                  <pb n="144" facs="tcp:0FA46E97241578F8:000244_0157_0FA36EADCA2BED78"/>And such as shew'd but reverence before,</l>
+                  <pb n="144" facs="unknown:000244_0157_0FA36EADCA2BED78"/>And such as shew'd but reverence before,</l>
                <l>Now are commanded strictly to adore;</l>
                <l>With <hi>Persian</hi> Robes himself doth dignifie,</l>
                <l>Charging the <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7537,7 +7537,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>er less to Readers may it bring,</l>
                <l>Here to observe the rashness of the King.</l>
                <l>
-                  <pb n="145" facs="tcp:0FA46E97241578F8:000244_0158_0FA36EAE87BD1058"/>Now with his Army doth he post away</l>
+                  <pb n="145" facs="unknown:000244_0158_0FA36EAE87BD1058"/>Now with his Army doth he post away</l>
                <l>False <hi>Bessus</hi> to find out in <hi>Bactria</hi>
                   <g ref="char:punc">▪</g>
                </l>
@@ -7586,7 +7586,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>Whom <hi>Xerxes</hi> from their Country led away,</l>
                <l>
-                  <pb n="146" facs="tcp:0FA46E97241578F8:000244_0159_0FA36EAF477BE0D8"/>These not a little joy'd, this day to see,</l>
+                  <pb n="146" facs="unknown:000244_0159_0FA36EAF477BE0D8"/>These not a little joy'd, this day to see,</l>
                <l>Wherein their own had got the sov'raignty</l>
                <l>And now reviv'd, with hopes held up their head</l>
                <l>From bondage long to be Enfranchised.</l>
@@ -7636,7 +7636,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Which <hi>Alexandria</hi> he doth likewise name,</l>
                <l>And sixty furlongs could but round the same.</l>
                <l>
-                  <pb n="147" facs="tcp:0FA46E97241578F8:000244_0160_0FA36EB05EAF3D68"/>A third Supply <hi>Antipat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="147" facs="unknown:000244_0160_0FA36EB05EAF3D68"/>A third Supply <hi>Antipat<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>r</hi> now sent,</l>
                <l>Which did his former forces much augment;</l>
@@ -7709,7 +7709,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>old</l>
                <l>He glory sought, no silver nor no gold;</l>
                <l>
-                  <pb n="148" facs="tcp:0FA46E97241578F8:000244_0161_0FA36EB0DDD0B4A8"/>His presents all with thanks he did restore,</l>
+                  <pb n="148" facs="unknown:000244_0161_0FA36EB0DDD0B4A8"/>His presents all with thanks he did restore,</l>
                <l>And of his own a thousand talents more.</l>
                <l>Thus all the Indian Kings to him submit,</l>
                <l>But <hi>Porus</hi> stout, who will not yeild as yet:</l>
@@ -7748,7 +7748,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And whilst the first he valiantly assail'd,</l>
                <l>The last set on his back, and so prevail'd.</l>
                <l>
-                  <pb n="149" facs="tcp:0FA46E97241578F8:000244_0162_0FA36EB188CEB320"/>Yet work enough here <hi>Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="149" facs="unknown:000244_0162_0FA36EB188CEB320"/>Yet work enough here <hi>Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>xander</hi> found,</l>
                <l>For to the last stout <hi>Porus</hi> kept his ground:</l>
@@ -7800,7 +7800,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>Where he entomb'd his stately Stalion.</l>
                <l>
-                  <pb n="150" facs="tcp:0FA46E97241578F8:000244_0163_0FA36EB249464098"/>His fourth and last supply was hither sent,</l>
+                  <pb n="150" facs="unknown:000244_0163_0FA36EB249464098"/>His fourth and last supply was hither sent,</l>
                <l>Then down <hi>Hy<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>aspes</hi> with his F<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7841,7 +7841,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Thus winter Souldiers and provisions spent,</l>
                <l>From hence he then unto <hi>Gedrosia</hi> went.</l>
                <l>
-                  <pb n="151" facs="tcp:0FA46E97241578F8:000244_0164_0FA36EB30AECA568"/>And thence he marcht into <hi>Carma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="151" facs="unknown:000244_0164_0FA36EB30AECA568"/>And thence he marcht into <hi>Carma<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ia,</hi>
                </l>
@@ -7906,7 +7906,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His virtues dead, buried, and quite forgot,</l>
                <l>But vice remains to his Eternal blot.</l>
                <l>
-                  <pb n="152" facs="tcp:0FA46E97241578F8:000244_0165_0FA36EB3C8F52AC8"/>'Mongst those that of his cruelty did tast,</l>
+                  <pb n="152" facs="unknown:000244_0165_0FA36EB3C8F52AC8"/>'Mongst those that of his cruelty did tast,</l>
                <l>
                   <hi>Philot<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -7953,7 +7953,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>oes exceeds in malice, and their hate</l>
                <l>Thy kingly word can easily terminate.</l>
                <l>
-                  <pb n="153" facs="tcp:0FA46E97241578F8:000244_0166_0FA36EB487EF6EE0"/>Such torments great as wit could worst invent,</l>
+                  <pb n="153" facs="unknown:000244_0166_0FA36EB487EF6EE0"/>Such torments great as wit could worst invent,</l>
                <l>Or flesh and life could bear, till both were spent</l>
                <l>Were now inflicted on <hi>Parmenio</hi>'s son</l>
                <l>He might accuse himself, as they had done,</l>
@@ -7997,7 +7997,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Who for his prudence, valour, care and trust</l>
                <l>Had this reward, most cruel and unjust.</l>
                <l>
-                  <pb n="154" facs="tcp:0FA46E97241578F8:000244_0167_0FA36EB5474B3FA0"/>The next, who in untimely death had part,</l>
+                  <pb n="154" facs="unknown:000244_0167_0FA36EB5474B3FA0"/>The next, who in untimely death had part,</l>
                <l>Was one of more esteem, but less desert;</l>
                <l>
                   <hi>Clitus</hi> belov'd next to <hi>Eph<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -8047,7 +8047,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>nst his Laws,</l>
                <l>
-                  <pb n="155" facs="tcp:0FA46E97241578F8:000244_0168_0FA36EB6109BA5E0"/>He on the Rack his Limbs in pieces rent,</l>
+                  <pb n="155" facs="unknown:000244_0168_0FA36EB6109BA5E0"/>He on the Rack his Limbs in pieces rent,</l>
                <l>Thus w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s he tortur'd till his life was spent.</l>
@@ -8137,7 +8137,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> Diety.</l>
                <l>
-                  <pb n="156" facs="tcp:0FA46E97241578F8:000244_0169_0FA36EB6C6E13330"/>The Mules and Horses are for sorrow shorne,</l>
+                  <pb n="156" facs="unknown:000244_0169_0FA36EB6C6E13330"/>The Mules and Horses are for sorrow shorne,</l>
                <l>The battlements from off the walls are torne.</l>
                <l>Of stately <hi>Ecbatane</hi> who now must shew,</l>
                <l>A rueful face in this so general woe;</l>
@@ -8225,7 +8225,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>eath's too fresh before his eyes;</l>
                <l>
-                  <pb n="157" facs="tcp:0FA46E97241578F8:000244_0170_0FA36EB78718B238"/>He was too subtil for his cra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="157" facs="unknown:000244_0170_0FA36EB78718B238"/>He was too subtil for his cra<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ty foe.</l>
                <l>Nor by his baits could be insnared so:</l>
@@ -8273,7 +8273,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Wise <hi>Aristotle</hi> Tutor to his youth.</l>
                <l>Had so instructed him in moral Truth:</l>
                <l>
-                  <pb n="158" facs="tcp:0FA46E97241578F8:000244_0171_0FA36EB848D77168"/>The principles of what he then had learn'd</l>
+                  <pb n="158" facs="unknown:000244_0171_0FA36EB848D77168"/>The principles of what he then had learn'd</l>
                <l>Might to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ast (when sober<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -8391,7 +8391,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>indred, nor his race long stood:</l>
                <l>
-                  <pb n="159" facs="tcp:0FA46E97241578F8:000244_0172_0FA36EB917490770"/>But as he took delight much bloud to spill,</l>
+                  <pb n="159" facs="unknown:000244_0172_0FA36EB917490770"/>But as he took delight much bloud to spill,</l>
                <l>So the same cup to his, di<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> others fill.</l>
@@ -8442,7 +8442,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Alledg'd by those who by their subtile Plea</l>
                <l>Had hope themselves to bear the Crown away.</l>
                <l>
-                  <pb n="160" facs="tcp:0FA46E97241578F8:000244_0173_0FA36EB9E7B7F030"/>A Sister <hi>Alexander</hi> had, but she</l>
+                  <pb n="160" facs="unknown:000244_0173_0FA36EB9E7B7F030"/>A Sister <hi>Alexander</hi> had, but she</l>
                <l>Claim'd not, perhaps, her Sex might hindrance be,</l>
                <l>After much tumult they at last proclaim'd</l>
                <l>His base born brother <hi>Aridaeus</hi> nam'd,</l>
@@ -8476,7 +8476,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>His countenance so lively did appear,</l>
                <l>That for a while they durst not come so near:</l>
                <l>
-                  <pb n="161" facs="tcp:0FA46E97241578F8:000244_0174_0FA36EBA87171428"/>No sign of poyson in his intrails found,</l>
+                  <pb n="161" facs="unknown:000244_0174_0FA36EBA87171428"/>No sign of poyson in his intrails found,</l>
                <l>But all his bowels coloured, well and sound.</l>
                <l>
                   <hi>Perdicca<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -8541,7 +8541,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>Their Ancient Liberty afresh now seeks.</l>
                <l>
-                  <pb n="162" facs="tcp:0FA46E97241578F8:000244_0175_0FA36EBB9E46FDE8"/>And gladly would the yoke shake off laid on</l>
+                  <pb n="162" facs="unknown:000244_0175_0FA36EBB9E46FDE8"/>And gladly would the yoke shake off laid on</l>
                <l>Sometimes by <hi>Philip</hi> and his conquering son.</l>
                <l>The <hi>Athenians</hi> force <hi>Antipater</hi> to fly</l>
                <l>To <hi>Lamia</hi> where he shu<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -8613,7 +8613,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>But under servitude their necks remain'd,</l>
                <l>Nor former liberty or glory gain'd.</l>
                <l>
-                  <pb n="163" facs="tcp:0FA46E97241578F8:000244_0176_0FA36EBC0BCD7430"/>Now di'd about the end of th' <hi>Lamian</hi> war</l>
+                  <pb n="163" facs="unknown:000244_0176_0FA36EBC0BCD7430"/>Now di'd about the end of th' <hi>Lamian</hi> war</l>
                <l>
                   <hi>Demosth<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -8671,7 +8671,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      </gap>nus</hi> of treason first attaints,</l>
                <l>And summons him to answer his complaints.</l>
                <l>
-                  <pb n="164" facs="tcp:0FA46E97241578F8:000244_0177_0FA36EBCC71B7D10"/>This he avoids, and ships himself and son,</l>
+                  <pb n="164" facs="unknown:000244_0177_0FA36EBCC71B7D10"/>This he avoids, and ships himself and son,</l>
                <l>goes to <hi>Antipater</hi> and tells what's done.</l>
                <l>He and <hi>Craterus,</hi> both with him do joyne,</l>
                <l>And 'gainst <hi>Perdiccas</hi> all their strength combine.</l>
@@ -8715,7 +8715,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>
                   <hi>Python</hi> of haughty mind, and courage great.</l>
                <l>
-                  <pb n="165" facs="tcp:0FA46E97241578F8:000244_0178_0FA36EBD8B864970"/>Who could not brook so great indignity,</l>
+                  <pb n="165" facs="unknown:000244_0178_0FA36EBD8B864970"/>Who could not brook so great indignity,</l>
                <l>But of his wrongs his friends doth certifie,</l>
                <l>The souldiers 'gainst <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -8763,7 +8763,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Two Battles fought, and had of both the best,</l>
                <l>And brave <hi>Craterus</hi> slew among the rest:</l>
                <l>
-                  <pb n="166" facs="tcp:0FA46E97241578F8:000244_0179_0FA36EBE46EF0A28"/>For this sad strife he poures out his complaint<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="166" facs="unknown:000244_0179_0FA36EBE46EF0A28"/>For this sad strife he poures out his complaint<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>,</l>
                <l>And his beloved foe full sore laments.</l>
@@ -8809,7 +8809,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> the same.</l>
                <l>
-                  <pb n="167" facs="tcp:0FA46E97241578F8:000244_0180_0FA36EBF07B557C8"/>He plac'd<g ref="char:punc">▪</g> displ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="167" facs="unknown:000244_0180_0FA36EBF07B557C8"/>He plac'd<g ref="char:punc">▪</g> displ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>c'd control'd rul'd as he list,</l>
                <l>And this no man durst question or resist;</l>
@@ -8871,7 +8871,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> part of <hi>Assyria</hi> doth seize.</l>
                <l>
-                  <pb n="168" facs="tcp:0FA46E97241578F8:000244_0181_0FA36EBFC7C32308"/>And <hi>Ptolemy</hi> next to incroach begins,</l>
+                  <pb n="168" facs="unknown:000244_0181_0FA36EBFC7C32308"/>And <hi>Ptolemy</hi> next to incroach begins,</l>
                <l>All <hi>Syri<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -8928,7 +8928,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>With Ships at Sea<g ref="char:punc">▪</g> an Army for the Land,</l>
                <l>His proud opponent hopes soon to withstand.</l>
                <l>
-                  <pb n="169" facs="tcp:0FA46E97241578F8:000244_0182_0FA36EC088796730"/>But in his absence <hi>Polispercho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="169" facs="unknown:000244_0182_0FA36EC088796730"/>But in his absence <hi>Polispercho<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
                   </hi> takes</l>
@@ -9015,7 +9015,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Nor thought he that indignity was small,</l>
                <l>When <hi>Alexander</hi> knockt his head to th' wall.</l>
                <l>
-                  <pb n="170" facs="tcp:0FA46E97241578F8:000244_0183_0FA36EC1484DBF68"/>These with his love unto the amorous Queen,</l>
+                  <pb n="170" facs="unknown:000244_0183_0FA36EC1484DBF68"/>These with his love unto the amorous Queen,</l>
                <l>Di<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> make him vow, her servant to be seen,</l>
@@ -9092,7 +9092,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>m torments had his end,</l>
                <l>And to the Queen these presents she did send:</l>
                <l>
-                  <pb n="171" facs="tcp:0FA46E97241578F8:000244_0184_0FA36EC206F0DB00"/>
+                  <pb n="171" facs="unknown:000244_0184_0FA36EC206F0DB00"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Halter, cup of poyson, and a Sword,</l>
@@ -9175,7 +9175,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>light.</l>
                <l>
-                  <pb n="172" facs="tcp:0FA46E97241578F8:000244_0185_0FA36EC322C51F80"/>
+                  <pb n="172" facs="unknown:000244_0185_0FA36EC322C51F80"/>
                   <hi>Cassander</hi> is resolved there to remain,</l>
                <l>So succou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -9226,7 +9226,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Now in her Age she's forc'd to tast that Cup,</l>
                <l>Which she had others often made to sup.</l>
                <l>
-                  <pb n="173" facs="tcp:0FA46E97241578F8:000244_0186_0FA36EC398F81AE8"/>Now many Towns in <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="173" facs="unknown:000244_0186_0FA36EC398F81AE8"/>Now many Towns in <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>cedon</hi> supprest,</l>
                <l>And <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9282,7 +9282,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      </gap>nus,</hi> his growing up so high<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="174" facs="tcp:0FA46E97241578F8:000244_0187_0FA36EC44754D4C0"/>Fearing his force, and what might hap e're long,</l>
+                  <pb n="174" facs="unknown:000244_0187_0FA36EC44754D4C0"/>Fearing his force, and what might hap e're long,</l>
                <l>Enters into a Combination strong,</l>
                <l>
                   <hi>Seleucus, Ptolemy Cassander</hi> joynes,</l>
@@ -9376,7 +9376,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> of royal <hi>Shushan</hi> did remain;</l>
                <l>
-                  <pb n="175" facs="tcp:0FA46E97241578F8:000244_0188_0FA36EC50995D798"/>Therefore requests their help to take him down</l>
+                  <pb n="175" facs="unknown:000244_0188_0FA36EC50995D798"/>Therefore requests their help to take him down</l>
                <l>Before he wear the universal Crown</l>
                <l>These princes at the sea soon had a fight,</l>
                <l>Where great <hi>Antigonus</hi> was put to <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -9427,7 +9427,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Resolves to quit his fears by one deed done,</l>
                <l>So puts to death the Mother and her Son.</l>
                <l>
-                  <pb n="176" facs="tcp:0FA46E97241578F8:000244_0189_0FA36EC5C8686B88"/>This <hi>Roxane</hi> for her b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="176" facs="unknown:000244_0189_0FA36EC5C8686B88"/>This <hi>Roxane</hi> for her b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>auty all commend,</l>
                <l>But for one a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9502,7 +9502,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Extinct by this inhumane wretch <hi>Cassander.</hi>
                </l>
                <l>
-                  <pb n="177" facs="tcp:0FA46E97241578F8:000244_0190_0FA36EC687BD79D0"/>
+                  <pb n="177" facs="unknown:000244_0190_0FA36EC687BD79D0"/>
                   <hi>Antigonus,</hi> for all this doth not mourn<g ref="char:punc">▪</g>
                </l>
                <l>He knows to's profit<g ref="char:punc">▪</g> this at last will turn,</l>
@@ -9542,7 +9542,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Thus may we hear<g ref="char:punc">▪</g> and fear and ever say,</l>
                <l>That hand is righteous still which doth repay.</l>
                <l>
-                  <pb n="178" facs="tcp:0FA46E97241578F8:000244_0191_0FA36EC74907C480"/>These Captains now the stile of Kings do take,</l>
+                  <pb n="178" facs="unknown:000244_0191_0FA36EC74907C480"/>These Captains now the stile of Kings do take,</l>
                <l>For to their Crowns their's none can Title make</l>
                <l>
                   <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9603,7 +9603,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>hut their gates in his adversity:</l>
                <l>
-                  <pb n="179" facs="tcp:0FA46E97241578F8:000244_0192_0FA36EC808E9CCA0"/>He sorely griev'd at th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="179" facs="unknown:000244_0192_0FA36EC808E9CCA0"/>He sorely griev'd at th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s his desperate State</l>
                <l>Tryes Foes<g ref="char:punc">▪</g> sith friends will not compassionate.</l>
@@ -9706,7 +9706,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>inct in one<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="180" facs="tcp:0FA46E97241578F8:000244_0193_0FA36EC8C8A39FC8"/>And th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="180" facs="unknown:000244_0193_0FA36EC8C8A39FC8"/>And th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ugh <hi>Cassander</hi> died in his bed,</l>
                <l>His Seed to be extirpt, was <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9784,7 +9784,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>For his Posterity unto this day,</l>
                <l>Did ne're regain one foot in <hi>Asia</hi>;</l>
                <l>
-                  <pb n="181" facs="tcp:0FA46E97241578F8:000244_0194_0FA36EC9ABB2BCB0"/>His Body <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="181" facs="unknown:000244_0194_0FA36EC9ABB2BCB0"/>His Body <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -9870,7 +9870,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </hi> gains,</l>
                <l>And his posterity, the same retains;</l>
                <l>
-                  <pb n="182" facs="tcp:0FA46E97241578F8:000244_0195_0FA36ECACC69DB40"/>
+                  <pb n="182" facs="unknown:000244_0195_0FA36ECACC69DB40"/>
                   <hi>Demetrius</hi> Son was call'd <hi>Antigonus,</hi>
                </l>
                <l>And his again was nam'd <hi>Demetrius.</hi>
@@ -9942,7 +9942,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>A third <hi>Seleucus</hi> next sits on the Seat,</l>
                <l>And then <hi>Antiochus</hi> firnam'd the great,</l>
                <l>
-                  <pb n="173" facs="tcp:0FA46E97241578F8:000244_0196_0FA36ECB0928BA00"/>VVhose large Dominions after was made small,</l>
+                  <pb n="173" facs="unknown:000244_0196_0FA36ECB0928BA00"/>VVhose large Dominions after was made small,</l>
                <l>By <hi>Scipio</hi> the Roman General;</l>
                <l>Fourth <hi>Sel<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -10025,7 +10025,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      </gap>rus</hi> stead,</l>
                <l>Next <hi>Auletes,</hi> who cut off <hi>Pompeys</hi> head.</l>
                <l>
-                  <pb n="184" facs="tcp:0FA46E97241578F8:000244_0197_0FA36ECBC8C69CD0"/>To all these names, we <hi>Ptolemy</hi> must add,</l>
+                  <pb n="184" facs="unknown:000244_0197_0FA36ECBC8C69CD0"/>To all these names, we <hi>Ptolemy</hi> must add,</l>
                <l>For since the first, they still that Title had.</l>
                <l>Fair <hi>Cleopatra</hi> next, last of that race,</l>
                <l>Whom <hi>Iulius Caesar</hi> set in Royal place,</l>
@@ -10071,7 +10071,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>The first was likened to a head of gold.</l>
                <l>Next Arms and breast of silver to behold,</l>
                <l>
-                  <pb n="185" facs="tcp:0FA46E97241578F8:000244_0198_0FA36ECC86D1E920"/>The third, Belly and Thighs of brass in sight,</l>
+                  <pb n="185" facs="unknown:000244_0198_0FA36ECC86D1E920"/>The third, Belly and Thighs of brass in sight,</l>
                <l>And last was Iron, which breaketh all with might;</l>
                <l>The stone out of the mountain then did ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -10133,7 +10133,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <trailer>The End of the Grecian Monarchy.</trailer>
          </div>
          <div type="poem">
-            <pb n="186" facs="tcp:0FA46E97241578F8:000244_0199_0FA36ECD46E3AC00"/>
+            <pb n="186" facs="unknown:000244_0199_0FA36ECD46E3AC00"/>
             <l>After some dayes of rest, my restless heart</l>
             <l>To finish what's begun, new thoughts impart,</l>
             <l>And maugre all resolves, my fancy wrought</l>
@@ -10166,7 +10166,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      </gap>,</hi> she might not know</l>
                <l>The double injury he then did do.</l>
                <l>
-                  <pb n="187" facs="tcp:0FA46E97241578F8:000244_0200_0FA36ECE06CE7A38"/>Where sheperds once had Coats<g ref="char:punc">▪</g> &amp; sheep their folds</l>
+                  <pb n="187" facs="unknown:000244_0200_0FA36ECE06CE7A38"/>Where sheperds once had Coats<g ref="char:punc">▪</g> &amp; sheep their folds</l>
                <l>Where Swains &amp; rustick Peasants kept their holds,</l>
                <l>A City fair did <hi>Romulus</hi> erect,</l>
                <l>The Mistress of the World, in each respect,</l>
@@ -10207,7 +10207,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>But <hi>Romulus</hi> then comes unto his end.</l>
                <l>Some feigning to the Gods he did ascend:</l>
                <l>
-                  <pb n="188" facs="tcp:0FA46E97241578F8:000244_0201_0FA36ECEC90FCF18"/>Others the seven and thirtyeth of his reign,</l>
+                  <pb n="188" facs="unknown:000244_0201_0FA36ECEC90FCF18"/>Others the seven and thirtyeth of his reign,</l>
                <l>Affirm, that by the Senate he was slain.</l>
             </div>
             <div type="part">
@@ -10267,7 +10267,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>tin Kings this was long since the Seat,</l>
                <l>But now demolished, to make <hi>Rome</hi> great.</l>
                <l>
-                  <pb n="189" facs="tcp:0FA46E97241578F8:000244_0202_0FA36ECF8E1BB1C0"/>Thirty two years did <hi>Tullus</hi> reign, then dye<g ref="char:punc">▪</g>
+                  <pb n="189" facs="unknown:000244_0202_0FA36ECF8E1BB1C0"/>Thirty two years did <hi>Tullus</hi> reign, then dye<g ref="char:punc">▪</g>
                </l>
                <l>Le<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -10333,7 +10333,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      </gap>cus</hi> Sons was slain.</l>
             </div>
             <div type="part">
-               <pb n="190" facs="tcp:0FA46E97241578F8:000244_0203_0FA36ED046BAA030"/>
+               <pb n="190" facs="unknown:000244_0203_0FA36ED046BAA030"/>
                <head>Servius Tullius.</head>
                <l>Next <hi>Servius Tullius</hi> gets into the Throne,</l>
                <l>Ascends not up By merits of his own,</l>
@@ -10377,7 +10377,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And people swear ne'r to accept of King.</l>
             </div>
             <div type="coda">
-               <pb n="191" facs="tcp:0FA46E97241578F8:000244_0204_0FA36ED10815D6E8"/>
+               <pb n="191" facs="unknown:000244_0204_0FA36ED10815D6E8"/>
                <head>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Apology.</head>
@@ -10404,7 +10404,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </div>
          </div>
          <div type="dialogue">
-            <pb n="192" facs="tcp:0FA46E97241578F8:000244_0205_0FA36ED214BA4640"/>
+            <pb n="192" facs="unknown:000244_0205_0FA36ED214BA4640"/>
             <head>A Dialogue between Old <hi>En<g ref="char:EOLhyphen"/>gland</hi> and N<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>w<g ref="char:punc">▪</g> concerning their present Troubles, <hi>Anno,</hi> 1642.</head>
@@ -10434,7 +10434,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>y now to reel?</l>
                <l>
-                  <pb n="193" facs="tcp:0FA46E97241578F8:000244_0206_0FA36ED28743FC40"/>This Physick purging potion, I have taken,</l>
+                  <pb n="193" facs="unknown:000244_0206_0FA36ED28743FC40"/>This Physick purging potion, I have taken,</l>
                <l>Will bring consumption, or an Ague quaking,</l>
                <l>Unless some Cordial, thou fetch from high,</l>
                <l>Which present help may ease my malady.</l>
@@ -10487,7 +10487,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Or is't the fatal jarre, again begun</l>
                <l>That from the red white pricking roses sprung?</l>
                <l>
-                  <pb n="194" facs="tcp:0FA46E97241578F8:000244_0207_0FA36ED3470C0038"/>Must <hi>Richmonds</hi> aid, the Nobles now implore?</l>
+                  <pb n="194" facs="unknown:000244_0207_0FA36ED3470C0038"/>Must <hi>Richmonds</hi> aid, the Nobles now implore?</l>
                <l>To come and break the Tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hes of the Boar,</l>
@@ -10550,7 +10550,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>No crafty Tyrant now usurps the Seat,</l>
                <l>Who Nephews slew that so he might be great;</l>
                <l>
-                  <pb n="195" facs="tcp:0FA46E97241578F8:000244_0208_0FA36ED4077295F0"/>No need of <hi>Tudor,</hi> Roses to unite,</l>
+                  <pb n="195" facs="unknown:000244_0208_0FA36ED4077295F0"/>No need of <hi>Tudor,</hi> Roses to unite,</l>
                <l>None knows which is the red, or which the white;</l>
                <l>
                   <hi>Spains</hi> braving Fl<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -10626,7 +10626,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>What scorning of the Saints of the most high?</l>
                <l>What injuries did daily on them lye?</l>
                <l>
-                  <pb n="196" facs="tcp:0FA46E97241578F8:000244_0209_0FA36ED4C87659F0"/>What false reports, what nick-names did they take</l>
+                  <pb n="196" facs="unknown:000244_0209_0FA36ED4C87659F0"/>What false reports, what nick-names did they take</l>
                <l>Not for their own, but for their Masters sake?</l>
                <l>And thou poor soul, wert jeer'd among the rest<g ref="char:punc">▪</g>
                </l>
@@ -10667,7 +10667,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Some lost their livings, some in prison pent,</l>
                <l>Some fin'd, from house &amp; friends to exile went:</l>
                <l>
-                  <pb n="197" facs="tcp:0FA46E97241578F8:000244_0210_0FA36ED586C22210"/>Their silent tongues to heaven did vengeance cry,</l>
+                  <pb n="197" facs="unknown:000244_0210_0FA36ED586C22210"/>Their silent tongues to heaven did vengeance cry,</l>
                <l>Who saw their wrongs &amp; hath judg'd righteously</l>
                <l>And will repay it seven-fold in my lap:</l>
                <l>This is fore-runner of my Afterclap.</l>
@@ -10700,7 +10700,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Then let's joyn heads &amp; hearts for your relief.</l>
             </sp>
             <sp>
-               <pb n="198" facs="tcp:0FA46E97241578F8:000244_0211_0FA36ED6470C5A10"/>
+               <pb n="198" facs="unknown:000244_0211_0FA36ED6470C5A10"/>
                <speaker>Old England.</speaker>
                <l>Well to the ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -10767,7 +10767,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> Subjects &amp; their Master;</l>
                <l>
-                  <pb n="199" facs="tcp:0FA46E97241578F8:000244_0212_0FA36ED708763AB0"/>They worded it so long, they fell to blows.</l>
+                  <pb n="199" facs="unknown:000244_0212_0FA36ED708763AB0"/>They worded it so long, they fell to blows.</l>
                <l>That thousands lay on heaps, here bleeds my woes,</l>
                <l>I that no wars so many years have known,</l>
                <l>Am now destroy'd and slaught'red by mine own;</l>
@@ -10815,7 +10815,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>Though now beclouded all with tears and blood:</l>
                <l>
-                  <pb n="200" facs="tcp:0FA46E97241578F8:000244_0213_0FA36ED7C791F918"/>After dark Popery the day did clear,</l>
+                  <pb n="200" facs="unknown:000244_0213_0FA36ED7C791F918"/>After dark Popery the day did clear,</l>
                <l>But now the Sun in's brightness shall appear.</l>
                <l>Blest be the Nobles of thy noble Land,</l>
                <l>With ventur'd lives for Truths defence that stand.</l>
@@ -10846,7 +10846,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>O Mother can you weep, and have such Peers,</l>
                <l>When they are gone, then drown yourself in tears</l>
                <l>
-                  <pb n="201" facs="tcp:0FA46E97241578F8:000244_0214_0FA36ED8D6F76118"/>If now you weep so much, that then no more</l>
+                  <pb n="201" facs="unknown:000244_0214_0FA36ED8D6F76118"/>If now you weep so much, that then no more</l>
                <l>The briny Ocean will o'reflow your shore.</l>
                <l>These, these are they I trust, with <hi>Charles</hi> our King,</l>
                <l>Out of all mists such glorious dayes shall bring<g ref="char:punc">▪</g>
@@ -10887,7 +10887,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And make his filthy Den so desolate,</l>
                <l>To th' stonishment of all that knew his state:</l>
                <l>
-                  <pb n="202" facs="tcp:0FA46E97241578F8:000244_0215_0FA36ED9478965C8"/>This done with brandish'd Swords to <hi>Turky</hi> goe,</l>
+                  <pb n="202" facs="unknown:000244_0215_0FA36ED9478965C8"/>This done with brandish'd Swords to <hi>Turky</hi> goe,</l>
                <l>For then what is't, but English blades dare do,</l>
                <l>And lay her waste for so's the sacred Doom,</l>
                <l>And do <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -10919,7 +10919,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </sp>
          </div>
          <div type="poem">
-            <pb n="203" facs="tcp:0FA46E97241578F8:000244_0216_0FA36EDA081630C0"/>
+            <pb n="203" facs="unknown:000244_0216_0FA36EDA081630C0"/>
             <head>An Elegie upon that Honou<g ref="char:EOLhyphen"/>rable and renowned Knight <hi>Sir Philip Sidney,</hi> who was untimely slain at the Siege of <hi>Zutphen, Anno,</hi> 1586.</head>
             <div type="elegy">
                <l>WHen <hi>England</hi> did enjoy her Halsion dayes,</l>
@@ -10967,7 +10967,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
                <l>Who knows the spels that in his Rhetorick lurks,</l>
                <l>
-                  <pb n="204" facs="tcp:0FA46E97241578F8:000244_0217_0FA36EDAC81EA0E8"/>But some infatuate fools soon caught therein,</l>
+                  <pb n="204" facs="unknown:000244_0217_0FA36EDAC81EA0E8"/>But some infatuate fools soon caught therein,</l>
                <l>Fond <hi>Cupids</hi> Dame had never such a gin<g ref="char:punc">▪</g>
                </l>
                <l>Which makes severer eyes but slight that story,</l>
@@ -11004,7 +11004,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Thus man is born to dye, and dead is he,</l>
                <l>Brave <hi>Hector,</hi> by the walls of <hi>Troy</hi> we see.</l>
                <l>
-                  <pb n="205" facs="tcp:0FA46E97241578F8:000244_0218_0FA36EDB877A3710"/>O who was near thee but did sore repine</l>
+                  <pb n="205" facs="unknown:000244_0218_0FA36EDB877A3710"/>O who was near thee but did sore repine</l>
                <l>He rescued not with life that life of thine:</l>
                <l>But yet impartial Fates this boon did give,</l>
                <l>Though <hi>Sidney</hi> di'd his valiant name should live:</l>
@@ -11046,7 +11046,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Then wonder not if I no better sped,</l>
                <l>Since I the Muses thus have injured.</l>
                <l>
-                  <pb n="206" facs="tcp:0FA46E97241578F8:000244_0219_0FA36EDC46AD84B8"/>I pensive for my f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="206" facs="unknown:000244_0219_0FA36EDC46AD84B8"/>I pensive for my f<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ult sate down, and then</l>
                <l>
@@ -11095,7 +11095,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Reflection from their beaming Altitude,</l>
                <l>Did thaw my frozen hearts ingratitude;</l>
                <l>
-                  <pb n="207" facs="tcp:0FA46E97241578F8:000244_0220_0FA36EDD07ADF140"/>Which Rayes darting upon some richer ground,</l>
+                  <pb n="207" facs="unknown:000244_0220_0FA36EDD07ADF140"/>Which Rayes darting upon some richer ground,</l>
                <l>Had caused flours and fruits soon to abound;</l>
                <l>But barre<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -11160,7 +11160,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>tomy:</l>
                <l>
-                  <pb n="208" facs="tcp:0FA46E97241578F8:000244_0221_0FA36EDDC6B49550"/>Thy Physick, musick and state policy,</l>
+                  <pb n="208" facs="unknown:000244_0221_0FA36EDDC6B49550"/>Thy Physick, musick and state policy,</l>
                <l>Valour in warr, in peace good husbandry.</l>
                <l>Sure lib'ral Nature did with Art not small,</l>
                <l>In all the arts make thee most liberal.</l>
@@ -11220,7 +11220,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>as showr'd on any,</l>
                <l>Thy double portion would have served many.</l>
                <l>
-                  <pb n="209" facs="tcp:0FA46E97241578F8:000244_0222_0FA36EDE86C88E98"/>Unto each man his riches is assign'd</l>
+                  <pb n="209" facs="unknown:000244_0222_0FA36EDE86C88E98"/>Unto each man his riches is assign'd</l>
                <l>Of Name, of State, of Body and of Mind:</l>
                <l>Thou hadst thy part of all, but of the last,</l>
                <l>O pregnant brain, O comprehen<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -11273,7 +11273,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </div>
          </div>
          <div type="poem">
-            <pb n="210" facs="tcp:0FA46E97241578F8:000244_0223_0FA36EDF477D4C20"/>
+            <pb n="210" facs="unknown:000244_0223_0FA36EDF477D4C20"/>
             <head>In Honour of that High and Mighty Princ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ss Queen Elizabeth OF HAPPY MEMORY.</head>
@@ -11316,7 +11316,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </l>
             </div>
             <div type="elegy">
-               <pb n="211" facs="tcp:0FA46E97241578F8:000244_0224_0FA36EE006999340"/>
+               <pb n="211" facs="unknown:000244_0224_0FA36EE006999340"/>
                <head>The Poem.</head>
                <l>No <hi>Phoenix</hi> pen, nor <hi>Spencers</hi> poetry,</l>
                <l>No <hi>Speeds</hi> nor <hi>Cambdens</hi> learned History.</l>
@@ -11375,7 +11375,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Ships more invincible then <hi>Spain</hi>'s<g ref="char:punc">▪</g> her foe</l>
                <l>She wrackt, she sackt, she sunk his Armado:</l>
                <l>
-                  <pb n="212" facs="tcp:0FA46E97241578F8:000244_0225_0FA36EE114297020"/>Her stately troops advanc'd to <hi>Lisbons</hi> wall</l>
+                  <pb n="212" facs="unknown:000244_0225_0FA36EE114297020"/>Her stately troops advanc'd to <hi>Lisbons</hi> wall</l>
                <l>
                   <hi>Don Anthony</hi> in's right there to install.</l>
                <l>She frankly helpt, <hi>Franks</hi> brave distressed King,</l>
@@ -11414,7 +11414,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Within that Princess to have residence,</l>
                <l>And prostrate yielded to her excellence.</l>
                <l>
-                  <pb n="213" facs="tcp:0FA46E97241578F8:000244_0226_0FA36EE18707C248"/>
+                  <pb n="213" facs="unknown:000244_0226_0FA36EE18707C248"/>
                   <hi>Dido</hi> first Foundress of proud <hi>C arthage</hi> walls,</l>
                <l>(Who living consummates her Funeralls)</l>
                <l>A great <hi>Eliza</hi>
@@ -11453,7 +11453,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Full fraught with honour, riches and with dayes</l>
                <l>She set, she set, like <hi>Titan</hi> in his rayes.</l>
                <l>
-                  <pb n="214" facs="tcp:0FA46E97241578F8:000244_0227_0FA36EE2470FD0C8"/>No more shall rise or set so glorious sun</l>
+                  <pb n="214" facs="unknown:000244_0227_0FA36EE2470FD0C8"/>No more shall rise or set so glorious sun</l>
                <l>Untill the heavens great revolution,</l>
                <l>If then new things their old forms shall retain,</l>
                <l>
@@ -11486,7 +11486,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </div>
          </div>
          <div type="poem">
-            <pb n="215" facs="tcp:0FA46E97241578F8:000244_0228_0FA36EE306E8A188"/>
+            <pb n="215" facs="unknown:000244_0228_0FA36EE306E8A188"/>
             <head>Davids Lamentation for Saul and Ionathan. 2. Sam. 1.19·</head>
             <l>ALas slain is the Head of Isra<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -11516,7 +11516,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Nor from the fat, and spoils of Mighty men</l>
             <l>With bloodless sword did <hi>Saul</hi> turn back agen.</l>
             <l>
-               <pb n="216" facs="tcp:0FA46E97241578F8:000244_0229_0FA36EE3C75C0880"/>Pleasant and lovely, were they both in life,</l>
+               <pb n="216" facs="unknown:000244_0229_0FA36EE3C75C0880"/>Pleasant and lovely, were they both in life,</l>
             <l>And in their death was founnd no parting strife.</l>
             <l>Swifter then swiftest Eagles so were they,</l>
             <l>Stronger then Lions ramping for their prey.</l>
@@ -11543,7 +11543,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>And warlike weapons perished away?</l>
          </div>
          <div type="poem">
-            <pb n="217" facs="tcp:0FA46E97241578F8:000244_0230_0FA36EE487561CE0"/>
+            <pb n="217" facs="unknown:000244_0230_0FA36EE487561CE0"/>
             <head>To the Memory of my dear and ever honou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ed Father <hi>Thomas Dudley</hi> 
@@ -11583,7 +11583,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>t now or never I must pay my Sum;</l>
                <l>While others tell his worth, I'le not be dumb:</l>
                <l>
-                  <pb n="218" facs="tcp:0FA46E97241578F8:000244_0231_0FA36EE5469257B0"/>One of thy Founders, him <hi>New-England</hi> know,</l>
+                  <pb n="218" facs="unknown:000244_0231_0FA36EE5469257B0"/>One of thy Founders, him <hi>New-England</hi> know,</l>
                <l>Who staid thy feeble sides when thou wast low,</l>
                <l>Who spent his state, his strength, &amp; years with care</l>
                <l>That After-comers in them might have share.</l>
@@ -11625,7 +11625,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap> pray'd &amp; long'd full sore</l>
                <l>He might be cloath'd upon, for evermore.</l>
                <l>
-                  <pb n="219" facs="tcp:0FA46E97241578F8:000244_0232_0FA36EE60750A288"/>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="219" facs="unknown:000244_0232_0FA36EE60750A288"/>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t spake of death, and with a smiling chear,</l>
                <l>He did exult his end was drawing near,</l>
@@ -11665,7 +11665,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </div>
          </div>
          <div type="poem">
-            <pb n="220" facs="tcp:0FA46E97241578F8:000244_0233_0FA36EE71560C740"/>
+            <pb n="220" facs="unknown:000244_0233_0FA36EE71560C740"/>
             <head>An EPITAPH On my dear and ever honoured Mother Mrs. Dorothy Dudley, Who deceased <hi>Decemb. 27. 1643.</hi> and of her age, <hi>61</hi>: Here lyes,</head>
             <l>
                <hi>A</hi> Worthy Matron of unspotted life,</l>
@@ -11701,7 +11701,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Then dying, left a blessed memory.</l>
          </div>
          <div type="poem">
-            <pb n="221" facs="tcp:0FA46E97241578F8:000244_0234_0FA36EE78718DD30"/>
+            <pb n="221" facs="unknown:000244_0234_0FA36EE78718DD30"/>
             <head>CONTEMPLATIONS.</head>
             <lg>
                <l>SOme time now past in the Autumnal Tide,</l>
@@ -11737,7 +11737,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>If so, all these as nought, Eternity doth scorn.</l>
             </lg>
             <lg n="4">
-               <pb n="223" facs="tcp:0FA46E97241578F8:000244_0235_0FA36EE84AA14870"/>
+               <pb n="223" facs="unknown:000244_0235_0FA36EE84AA14870"/>
                <head>4</head>
                <l>Then higher on the glistering Sun I gaz'd,</l>
                <l>Whose beams was shaded by the leavie Tree,</l>
@@ -11797,7 +11797,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>, ador'd for ever, be that Majesty.</l>
             </lg>
             <lg n="8">
-               <pb n="222" facs="tcp:0FA46E97241578F8:000244_0236_0FA36EE906B014F8"/>
+               <pb n="222" facs="unknown:000244_0236_0FA36EE906B014F8"/>
                <head>8</head>
                <l>Silent alone<g ref="char:punc">▪</g> where none or saw<g ref="char:punc">▪</g> or heard,</l>
                <l>In pathless paths I lead my wandring feet,</l>
@@ -11855,7 +11855,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>A penalty impos'd on his backsliding Race.</l>
             </lg>
             <lg n="12">
-               <pb n="224" facs="tcp:0FA46E97241578F8:000244_0237_0FA36EE9C69CDB18"/>
+               <pb n="224" facs="unknown:000244_0237_0FA36EE9C69CDB18"/>
                <head>12</head>
                <l>Here sits our Grandame in retired place,</l>
                <l>And in her lap, her bloody <hi>Cain</hi> new born,</l>
@@ -11903,7 +11903,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>A City builds, that wals might him secure from foes.</l>
             </lg>
             <lg n="16">
-               <pb n="225" facs="tcp:0FA46E97241578F8:000244_0238_0FA36EEA86CCF398"/>
+               <pb n="225" facs="unknown:000244_0238_0FA36EEA86CCF398"/>
                <head>16</head>
                <l>Who thinks not oft upon the Fathers ages.</l>
                <l>Their long descent how nephews sons they saw,</l>
@@ -11967,7 +11967,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>l day remain.</l>
             </lg>
             <lg n="20">
-               <pb n="226" facs="tcp:0FA46E97241578F8:000244_0239_0FA36EEB46D855A8"/>
+               <pb n="226" facs="unknown:000244_0239_0FA36EEB46D855A8"/>
                <head>20</head>
                <l>Shall I then praise the heavens<g ref="char:punc">▪</g> the trees, the earth</l>
                <l>Because their beauty and their strength last longer</l>
@@ -12029,7 +12029,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>So may we press to that vast mansion, ever blest.</l>
             </lg>
             <lg n="24">
-               <pb n="227" facs="tcp:0FA46E97241578F8:000244_0240_0FA36EEC0690D4F8"/>
+               <pb n="227" facs="unknown:000244_0240_0FA36EEC0690D4F8"/>
                <head>24</head>
                <l>Ye Fish which in this liquid Region 'bide,</l>
                <l>That for each season, have your habitation,</l>
@@ -12074,7 +12074,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Reminds not what is past, nor whats to come dost fear</l>
             </lg>
             <lg n="28">
-               <pb n="228" facs="tcp:0FA46E97241578F8:000244_0241_0FA36EECCB73CEF8"/>
+               <pb n="228" facs="unknown:000244_0241_0FA36EECCB73CEF8"/>
                <head>28</head>
                <l>The dawning morn with songs thou dost prevent,</l>
                <l>Sets hundred n<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -12124,7 +12124,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Which'gainst all adverse winds may serve for fort.</l>
             </lg>
             <lg n="32">
-               <pb n="229" facs="tcp:0FA46E97241578F8:000244_0242_0FA36EED86858288"/>
+               <pb n="229" facs="unknown:000244_0242_0FA36EED86858288"/>
                <head>32</head>
                <l>So he that saileth in this world of pleasure,</l>
                <l>Feeding on sweets, that never bit of th' sowre,</l>
@@ -12169,7 +12169,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </l>
             <l>Nothing but Meditation?</l>
             <l>
-               <pb n="230" facs="tcp:0FA46E97241578F8:000244_0243_0FA36EEE474AE5C8"/>Doth Contemplation feed thee so</l>
+               <pb n="230" facs="unknown:000244_0243_0FA36EEE474AE5C8"/>Doth Contemplation feed thee so</l>
             <l>Regardlesly to let earth goe?</l>
             <l>Can Speculation satisfy</l>
             <l>Notion without Reality?</l>
@@ -12203,7 +12203,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>For I have vow'd, (and so will doe)</l>
             <l>Thee as a foe, still to pursue.</l>
             <l>
-               <pb n="231" facs="tcp:0FA46E97241578F8:000244_0244_0FA36EEF54B12650"/>And combate with thee will and must,</l>
+               <pb n="231" facs="unknown:000244_0244_0FA36EEF54B12650"/>And combate with thee will and must,</l>
             <l>Untill I see thee laid in th' dust.</l>
             <l>Sisters we are, ye twins we be,</l>
             <l>Yet deadly feud 'twixt thee and me;</l>
@@ -12246,7 +12246,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Then can thy hours in pleasure spent<g ref="char:punc">▪</g>
             </l>
             <l>
-               <pb n="232" facs="tcp:0FA46E97241578F8:000244_0245_0FA36EEFC6FE6F90"/>Nor are they shadows which I catch,</l>
+               <pb n="232" facs="unknown:000244_0245_0FA36EEFC6FE6F90"/>Nor are they shadows which I catch,</l>
             <l>Nor fancies vain at which I snatch,</l>
             <l>But reach at things that are so high,</l>
             <l>Beyond thy dull Capacity;</l>
@@ -12279,7 +12279,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>No Candle there, nor yet Torch light,</l>
             <l>For there shall be no darksome night.</l>
             <l>
-               <pb n="233" facs="tcp:0FA46E97241578F8:000244_0246_0FA36EF088761788"/>From sickness and infirmity,</l>
+               <pb n="233" facs="unknown:000244_0246_0FA36EF088761788"/>From sickness and infirmity,</l>
             <l>For evermore they shall be free,</l>
             <l>Nor withering age shall e're come there,</l>
             <l>But beauty shall be bright and clear;</l>
@@ -12316,7 +12316,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </gap> please.</l>
             <l>Mean while the conscience rage, who shall appease?</l>
             <l>
-               <pb n="234" facs="tcp:0FA46E97241578F8:000244_0247_0FA36EF146846948"/>What is't in beauty? No that's but a snare,</l>
+               <pb n="234" facs="unknown:000244_0247_0FA36EF146846948"/>What is't in beauty? No that's but a snare,</l>
             <l>They're foul enough to day, that once were fair.</l>
             <l>What is't in flowring youth, or manly age?</l>
             <l>The first is prone to vice, the last to rage.</l>
@@ -12363,7 +12363,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </gap>ngs to honour, which shall ne're decay,</l>
             <l>It stores with wealth which time can't wear away.</l>
             <l>
-               <pb n="235" facs="tcp:0FA46E97241578F8:000244_0248_0FA36EF207FE95C8"/>It yieldeth pleasures far beyond conceit,</l>
+               <pb n="235" facs="unknown:000244_0248_0FA36EF207FE95C8"/>It yieldeth pleasures far beyond conceit,</l>
             <l>And truly beautifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s without deceit,</l>
@@ -12378,7 +12378,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <trailer>FINIS.</trailer>
          </div>
          <div type="author_to_book">
-            <pb n="236" facs="tcp:0FA46E97241578F8:000244_0249_0FA36EF2C690E498"/>
+            <pb n="236" facs="unknown:000244_0249_0FA36EF2C690E498"/>
             <head>The Author to her Book.</head>
             <l>THou ill-form'd offspring of my feeble brain,</l>
             <l>Who after birth did'st by my side remain,</l>
@@ -12408,7 +12408,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Which caus'd her thus to send thee out of door.</l>
          </div>
          <div type="poems">
-            <pb n="237" facs="tcp:0FA46E97241578F8:000244_0250_0FA36EF388D58150"/>
+            <pb n="237" facs="unknown:000244_0250_0FA36EF388D58150"/>
             <head>Several other Poems made by the Author upon Diverse Occasions, were found among her Papers after her Death, which she never <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>eant s<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -12439,7 +12439,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap> we go to th' Tomb.</l>
                <l>
-                  <pb n="238" facs="tcp:0FA46E97241578F8:000244_0251_0FA36EF44685C108"/>O Bubble blast, how long can'st last?</l>
+                  <pb n="238" facs="unknown:000244_0251_0FA36EF44685C108"/>O Bubble blast, how long can'st last?</l>
                <l>that alwayes art a breaking,</l>
                <l>No sooner blown, but dead and gone,</l>
                <l>ev'n as a word that's speaking.</l>
@@ -12481,7 +12481,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And brought me to the shore from troubled Main;</l>
             </div>
             <div type="poem">
-               <pb n="239" facs="tcp:0FA46E97241578F8:000244_0252_0FA36EF5077A98B8"/>
+               <pb n="239" facs="unknown:000244_0252_0FA36EF5077A98B8"/>
                <head>Be<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ore the Birth of one of her Children.</head>
@@ -12522,7 +12522,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </closer>
             </div>
             <div type="poem">
-               <pb facs="tcp:0FA46E97241578F8:000244_0253_0FA36EF5C7C4E828"/>
+               <pb facs="unknown:000244_0253_0FA36EF5C7C4E828"/>
                <head>To <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Dear and loving Husband.</head>
@@ -12560,7 +12560,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Return, return sweet <hi>Sol</hi> from <hi>Capricorn,</hi>
                </l>
                <l>
-                  <pb n="241" facs="tcp:0FA46E97241578F8:000244_0254_0FA36EF6868F7D38"/>In this dead time, alas, what can I more</l>
+                  <pb n="241" facs="unknown:000244_0254_0FA36EF6868F7D38"/>In this dead time, alas, what can I more</l>
                <l>Then view those fruits which through thy heat I bore?</l>
                <l>Which sweet contentment yield me for a space,</l>
                <l>True living Pictures of their Fathers face.</l>
@@ -12600,7 +12600,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>And if he love, how can he there abide?</l>
                <l>My Interest's more then all the world beside.</l>
                <l>
-                  <pb n="242" facs="tcp:0FA46E97241578F8:000244_0255_0FA36EF795BA0300"/>He that can tell the starrs or Ocean sand,</l>
+                  <pb n="242" facs="unknown:000244_0255_0FA36EF795BA0300"/>He that can tell the starrs or Ocean sand,</l>
                <l>Or all the grass that in the Meads do stand,</l>
                <l>The leaves in th' woods the hail or drops of rain,</l>
                <l>Or in a corn-field number every grain<g ref="char:punc">▪</g>
@@ -12634,7 +12634,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>By all our loves conjure him not to stay.</l>
             </div>
             <div type="poem">
-               <pb n="243" facs="tcp:0FA46E97241578F8:000244_0256_0FA36EF8070370D0"/>
+               <pb n="243" facs="unknown:000244_0256_0FA36EF8070370D0"/>
                <head>Another.</head>
                <lg>
                   <l>As loving Hind that (Hartless) wants her Deer,</l>
@@ -12681,7 +12681,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   <l>The substance gone, O me, these are but dreams<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="244" facs="tcp:0FA46E97241578F8:000244_0257_0FA36EF8C7BFF688"/>Together at one Tree, oh let us bronze,</l>
+                     <pb n="244" facs="unknown:000244_0257_0FA36EF8C7BFF688"/>Together at one Tree, oh let us bronze,</l>
                   <l>And like two Turtles roost within one house,</l>
                   <l>And like the Mullets in one River glide,</l>
                   <l>Let's still remain but one, till death divide.</l>
@@ -12720,7 +12720,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </closer>
             </div>
             <div type="poem">
-               <pb n="245" facs="tcp:0FA46E97241578F8:000244_0258_0FA36EF98748D288"/>
+               <pb n="245" facs="unknown:000244_0258_0FA36EF98748D288"/>
                <head>In reference to her Children, <hi>23.</hi> Iune, <hi>16<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>9.</hi>
@@ -12760,7 +12760,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                      <desc>•</desc>
                   </gap>r years;</l>
                <l>
-                  <pb n="246" facs="tcp:0FA46E97241578F8:000244_0259_0FA36EFA483BD960"/>One to the Academy flew</l>
+                  <pb n="246" facs="unknown:000244_0259_0FA36EFA483BD960"/>One to the Academy flew</l>
                <l>To chat among that learned crew:</l>
                <l>Ambition moves still in his breast</l>
                <l>That he might chant above the rest,</l>
@@ -12796,7 +12796,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Great was my pain when I you bred,</l>
                <l>Great was my care, when I you fed,</l>
                <l>
-                  <pb n="247" facs="tcp:0FA46E97241578F8:000244_0260_0FA36EFB067F3158"/>Long did I keep you soft and warm,</l>
+                  <pb n="247" facs="unknown:000244_0260_0FA36EFB067F3158"/>Long did I keep you soft and warm,</l>
                <l>And with m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> wings kept off all harm,</l>
@@ -12831,7 +12831,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>That did what could be done for young,</l>
                <l>And nurst you up till you were strong,</l>
                <l>
-                  <pb n="248" facs="tcp:0FA46E97241578F8:000244_0261_0FA36EFBC67DCDE0"/>And 'fore she once would let you fly,</l>
+                  <pb n="248" facs="unknown:000244_0261_0FA36EFBC67DCDE0"/>And 'fore she once would let you fly,</l>
                <l>She <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hew'd you joy and misery;</l>
@@ -12878,7 +12878,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                </lg>
             </div>
             <div type="poem">
-               <pb n="249" facs="tcp:0FA46E97241578F8:000244_0262_0FA36EFC881D7420"/>
+               <pb n="249" facs="unknown:000244_0262_0FA36EFC881D7420"/>
                <head>In memory of my dear grand-child Anne Bradstreet. Who deceased <hi>June 20. 1669.</hi> being three years and seven Moneths old.</head>
                <l>WIth troubled heart &amp; trembling hand I write,</l>
                <l>The Heavens have chang'd to sorrow my de<g ref="char:EOLhyphen"/>light.</l>
@@ -12908,7 +12908,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                <l>Thou with thy Saviour art in endless bliss.</l>
             </div>
             <div type="poem">
-               <pb n="250" facs="tcp:0FA46E97241578F8:000244_0263_0FA36EFD4A659730"/>
+               <pb n="250" facs="unknown:000244_0263_0FA36EFD4A659730"/>
                <head>On my dear Grand-child <hi>Simon Bradstreet,</hi> Who dyed on <hi>16. Novemb. 1669.</hi> being but a moneth, and one day old.</head>
                <l>No sooner come, but gone, and fal'n asleep.</l>
                <l>Acquaintance short, yet parting caus'd us weep<g ref="char:punc">▪</g>
@@ -12948,7 +12948,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
                   </gap>eas sailing to forreign Coast;</l>
                <l>Was ignorant what riches thou hadst lost.</l>
                <l>
-                  <pb n="251" facs="tcp:0FA46E97241578F8:000244_0264_0FA36EFE081DD5C8"/>But ah too soon those heavy tydings <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="251" facs="unknown:000244_0264_0FA36EFE081DD5C8"/>But ah too soon those heavy tydings <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ly,</l>
                <l>To strike thee with amazing misery;</l>
@@ -12979,7 +12979,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             </div>
          </div>
          <div type="elegy">
-            <pb n="252" facs="tcp:0FA46E97241578F8:000244_0265_0FA36EFEC7AE5EA0"/>
+            <pb n="252" facs="unknown:000244_0265_0FA36EFEC7AE5EA0"/>
             <head>A Fune<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>al Elogy, Vp<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -13019,7 +13019,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Ask not why every face a sadness shrowdes;</l>
             <l>The setting Sun ore-cast us hath with Clouds.</l>
             <l>
-               <pb n="253" facs="tcp:0FA46E97241578F8:000244_0266_0FA36EFFD3954670"/>Ask not why the great glory of the Skye</l>
+               <pb n="253" facs="unknown:000244_0266_0FA36EFFD3954670"/>Ask not why the great glory of the Skye</l>
             <l>That gilds the starrs with heavenly Alchamy,</l>
             <l>Which all the world doth lighten with his rayes,</l>
             <l>The <hi>Persian</hi> God<g ref="char:punc">▪</g> the Monarch of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -13071,7 +13071,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Be it the first of Miseries to all;</l>
             <l>Or last of Life, desam'd for Funeral.</l>
             <l>
-               <pb n="254" facs="tcp:0FA46E97241578F8:000244_0267_0FA36F0046B59720"/>When this day yearly comes, let every one,</l>
+               <pb n="254" facs="unknown:000244_0267_0FA36F0046B59720"/>When this day yearly comes, let every one,</l>
             <l>Cast in their <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, the black and dismal stone<g ref="char:punc">▪</g>
@@ -13113,7 +13113,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
             <l>Her virtues were so great, that they do raise</l>
             <l>A work to trouble fame, astonish praise.</l>
             <l>
-               <pb n="255" facs="tcp:0FA46E97241578F8:000244_0268_0FA36F0106700A70"/>When as her Name doth but salute the ear,</l>
+               <pb n="255" facs="unknown:000244_0268_0FA36F0106700A70"/>When as her Name doth but salute the ear,</l>
             <l>Men think that they perfections abstract hear.</l>
             <l>Her breast was a brave Pallace, a <hi>Broad-street,</hi>
             </l>
@@ -13153,7 +13153,7 @@ occasions, and more then so, these Poems are the fruit but of some few houres, c
       </body>
       <back>
          <div type="errata">
-            <pb facs="tcp:0FA46E97241578F8:000244_0269_0FA36F01C84E30B0"/>
+            <pb facs="unknown:000244_0269_0FA36F01C84E30B0"/>
             <head>ERRATA.</head>
             <p>
                <hi>In the <gap reason="illegible" resp="#PDCC" extent="2 letters">
